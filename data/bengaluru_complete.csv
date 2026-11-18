@@ -1,0 +1,535 @@
+﻿business_name,category,city,address,phone,source,source_url,source_id,osm_id,latitude,longitude
+Miniso,variety_store,Bengaluru,"419, 27th Main Road, 560034",,OpenStreetMap,https://www.openstreetmap.org/node/263472490,node/263472490,263472490,12.9185225,77.6518418
+Spencers Express,supermarket,Bengaluru,"7th Cross Road, 560071",,OpenStreetMap,https://www.openstreetmap.org/node/312504777,node/312504777,312504777,12.9591813,77.6382984
+Drapes Avenue,curtain,Bengaluru,"279, Inner Ring Road",,OpenStreetMap,https://www.openstreetmap.org/node/312595359,node/312595359,312595359,12.9559416,77.6412371
+Cauvery Arts And Crafts Emporium,craft,Bengaluru,M G Road,,OpenStreetMap,https://www.openstreetmap.org/node/316483286,node/316483286,316483286,12.9748429,77.608086
+TVS Sundaram Motors,car,Bengaluru,"107, Kasturba Road, 560 001",+91-80-22070713;+91-80-22070709,OpenStreetMap,https://www.openstreetmap.org/node/323638044,node/323638044,323638044,12.9737535,77.5959935
+Thom's Bakery,bakery,Bengaluru,"# 1/2, Wheeler Road, 560005",,OpenStreetMap,https://www.openstreetmap.org/node/343089650,node/343089650,343089650,12.9915471,77.614181
+Old Madras Baking Company,bakery,Bengaluru,"Saint Mark's Road, 560001",,OpenStreetMap,https://www.openstreetmap.org/node/428457212,node/428457212,428457212,12.9697383,77.6003775
+Geojit Financial Services,mobile_phone,Bengaluru,Margosa Road,,OpenStreetMap,https://www.openstreetmap.org/node/428497519,node/428497519,428497519,13.0037901,77.5691874
+Mothercare,motherhood,Bengaluru,12th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/486969025,node/486969025,486969025,12.9701849,77.6438014
+Naturals,beauty,Bengaluru,ITPL Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/518616440,node/518616440,518616440,12.9610755,77.71672
+Reliance Fresh,convenience,Bengaluru,ITPL Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/518616443,node/518616443,518616443,12.9601296,77.7160629
+Bata,shoes,Bengaluru,ITPL Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/518616448,node/518616448,518616448,12.9598856,77.7160093
+Smart Bazaar,supermarket,Bengaluru,Marenahalli Road,,OpenStreetMap,https://www.openstreetmap.org/node/524078312,node/524078312,524078312,12.9172203,77.5923138
+Reliance Fresh,supermarket,Bengaluru,Sampige Road,,OpenStreetMap,https://www.openstreetmap.org/node/571124364,node/571124364,571124364,13.0042882,77.5710889
+RR Cycle Junction,bicycle,Bengaluru,Suberdar Chatram Road,,OpenStreetMap,https://www.openstreetmap.org/node/577966903,node/577966903,577966903,13.0192867,77.5571453
+Spencers Daily,supermarket,Bengaluru,Pipeline Road,,OpenStreetMap,https://www.openstreetmap.org/node/589848959,node/589848959,589848959,13.0400303,77.5555993
+More,supermarket,Bengaluru,Horamavu Agara Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/595305917,node/595305917,595305917,13.0224257,77.6508337
+Blossom,books,Bengaluru,Church Street,,OpenStreetMap,https://www.openstreetmap.org/node/598969458,node/598969458,598969458,12.9751738,77.604825
+Juice Junction,beverages,Bengaluru,Saint Mark's Road,,OpenStreetMap,https://www.openstreetmap.org/node/661983020,node/661983020,661983020,12.9720317,77.6009309
+Fernspetals,florist,Bengaluru,13th Cross Sadashivanagar,,OpenStreetMap,https://www.openstreetmap.org/node/663334484,node/663334484,663334484,13.0078677,77.5795899
+Voltas,electronics,Bengaluru,Dr. C V Raman Road,,OpenStreetMap,https://www.openstreetmap.org/node/663920336,node/663920336,663920336,13.0145146,77.5735683
+Sweet Chariot,pastry,Bengaluru,Cunningham Road,,OpenStreetMap,https://www.openstreetmap.org/node/665871289,node/665871289,665871289,12.9857313,77.595832
+Family Super Market,supermarket,Bengaluru,Benson Cross Road,+91-80-23634305;+91-80-23430462,OpenStreetMap,https://www.openstreetmap.org/node/665871296,node/665871296,665871296,12.9967968,77.6045046
+More,supermarket,Bengaluru,Nandi Durg Road,,OpenStreetMap,https://www.openstreetmap.org/node/665871310,node/665871310,665871310,12.9998077,77.5996733
+Arafa Stores,supermarket,Bengaluru,Benson Cross Road,,OpenStreetMap,https://www.openstreetmap.org/node/665871311,node/665871311,665871311,12.9969644,77.6041292
+Benson Auto Garage,car_repair,Bengaluru,Benson Cross Road,,OpenStreetMap,https://www.openstreetmap.org/node/665871313,node/665871313,665871313,12.9979339,77.6031017
+"Namdhari Fresh, Frazer Town",supermarket,Bengaluru,"Madhavaraya Mudaliar Road, 560005",,OpenStreetMap,https://www.openstreetmap.org/node/667751121,node/667751121,667751121,13.0009809,77.6138953
+Sandeep Motors,car,Bengaluru,Dr. C V Raman Road,,OpenStreetMap,https://www.openstreetmap.org/node/673860154,node/673860154,673860154,13.014501,77.5734712
+Mysore Resham Emporium,clothes,Bengaluru,KH Road (Double Road),,OpenStreetMap,https://www.openstreetmap.org/node/677286824,node/677286824,677286824,12.9554112,77.5918509
+LimeLite Unisex Salon & Spa,hairdresser,Bengaluru,Lavelle Road,,OpenStreetMap,https://www.openstreetmap.org/node/677286831,node/677286831,677286831,12.9711284,77.5959911
+Levi's,clothes,Bengaluru,Lavelle Road,,OpenStreetMap,https://www.openstreetmap.org/node/677286837,node/677286837,677286837,12.9710106,77.598276
+Espirit,clothes,Bengaluru,Lavelle Road,,OpenStreetMap,https://www.openstreetmap.org/node/677286838,node/677286838,677286838,12.9708747,77.5990041
+Giovani,clothes,Bengaluru,Saint Mark's Road,,OpenStreetMap,https://www.openstreetmap.org/node/677286840,node/677286840,677286840,12.9707183,77.6005293
+Mini Bazaar,supermarket,Bengaluru,"Hutchins Main Road, 560084",,OpenStreetMap,https://www.openstreetmap.org/node/857105893,node/857105893,857105893,13.0068553,77.6241647
+More,supermarket,Bengaluru,80 Feet Road Girinagar,,OpenStreetMap,https://www.openstreetmap.org/node/951438815,node/951438815,951438815,12.9409932,77.544655
+Nilgiris Store,convenience,Bengaluru,80 Feet Road Girinagar,,OpenStreetMap,https://www.openstreetmap.org/node/951468562,node/951468562,951468562,12.9410374,77.542039
+Krishna Bakery,bakery,Bengaluru,"Seetharampalya Road, 560048",,OpenStreetMap,https://www.openstreetmap.org/node/963291957,node/963291957,963291957,12.9911799,77.7176639
+Saipriya Bakery,bakery,Bengaluru,"Basava Nagar Main Road, 560048",,OpenStreetMap,https://www.openstreetmap.org/node/964496319,node/964496319,964496319,12.9920471,77.7178948
+Tata Motors,car,Bengaluru,ITPL Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/984085030,node/984085030,984085030,12.9670037,77.7169213
+Heritage Fresh,convenience,Bengaluru,GM Palya Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/986744078,node/986744078,986744078,12.972735,77.678774
+Furniture Palace,furniture,Bengaluru,ITPL Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/988724809,node/988724809,988724809,12.9918744,77.7204067
+Bhutan Board Furniture,furniture,Bengaluru,WOC Road,,OpenStreetMap,https://www.openstreetmap.org/node/994628616,node/994628616,994628616,12.9931738,77.5391448
+Inscape Designer Furniture,furniture,Bengaluru,ITPL Main Road (Near Hotel Zuri),,OpenStreetMap,https://www.openstreetmap.org/node/1003719471,node/1003719471,1003719471,12.9910857,77.7212174
+Zan Auto Sound,car_parts,Bengaluru,"95/3, Outer Ring Road, 560037",+91 80 6583 8277,OpenStreetMap,https://www.openstreetmap.org/node/1024500714,node/1024500714,1024500714,12.96485,77.7018299
+Smart Point,supermarket,Bengaluru,Outer Ring Road,,OpenStreetMap,https://www.openstreetmap.org/node/1058729963,node/1058729963,1058729963,12.9655927,77.7018319
+New City Super Market,supermarket,Bengaluru,Kaggadasspura Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1076567658,node/1076567658,1076567658,12.9851864,77.6736268
+Smart Cars,car_repair,Bengaluru,Kaggadasspura Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1078161782,node/1078161782,1078161782,12.9856566,77.6730826
+Reliance Fresh,supermarket,Bengaluru,Kaggadasspura Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1078209943,node/1078209943,1078209943,12.985926,77.6688553
+Nilgiri's,supermarket,Bengaluru,Kaggadasspura Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1078209946,node/1078209946,1078209946,12.9859601,77.6689329
+Cosmos,convenience,Bengaluru,Kaggadasspura Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1078235338,node/1078235338,1078235338,12.9851708,77.6716822
+More,supermarket,Bengaluru,"593, A E C S Layout, Kundalahalli, Banglore - 560066",(91)-80-41229818,OpenStreetMap,https://www.openstreetmap.org/node/1085578886,node/1085578886,1085578886,12.9643051,77.7147136
+Bajaj Motorcycle Showroom,motorcycle,Bengaluru,Whitefield Road,,OpenStreetMap,https://www.openstreetmap.org/node/1094054658,node/1094054658,1094054658,12.9914521,77.7205954
+Škoda,car,Bengaluru,Ramana Maharshi Road,,OpenStreetMap,https://www.openstreetmap.org/node/1101831257,node/1101831257,1101831257,13.0062575,77.5837835
+Bandhej,clothes,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/1138469390,node/1138469390,1138469390,12.9787173,77.643786
+Adidas,sports,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232586,node/1147232586,1147232586,12.9595349,77.7481547
+Metro,shoes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232591,node/1147232591,1147232591,12.9595457,77.7476967
+Sisley Outlet Clothes,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232594,node/1147232594,1147232594,12.9593998,77.7482732
+Reebok,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232596,node/1147232596,1147232596,12.9594702,77.7476973
+Pantaloon,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232605,node/1147232605,1147232605,12.9594754,77.7478958
+Lee,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232606,node/1147232606,1147232606,12.9599378,77.7478941
+Sony Centre,electronics,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232614,node/1147232614,1147232614,12.9599834,77.7480636
+Crossword,books,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232621,node/1147232621,1147232621,12.9599543,77.7482882
+Eye Sense,jewelry,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232633,node/1147232633,1147232633,12.9596189,77.7480604
+Liberty Silks,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232642,node/1147232642,1147232642,12.9595311,77.7480711
+Diya,jewelry,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232643,node/1147232643,1147232643,12.9599473,77.7476376
+Espirit,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232646,node/1147232646,1147232646,12.9595384,77.7482657
+Blackberrys,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232653,node/1147232653,1147232653,12.9594016,77.7484054
+Toni & Guy,hairdresser,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232654,node/1147232654,1147232654,12.9595311,77.7473898
+The Time Factory,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232664,node/1147232664,1147232664,12.9595384,77.7485203
+Sportxs,gift,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232669,node/1147232669,1147232669,12.9599543,77.7484903
+Calvin Klein,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232681,node/1147232681,1147232681,12.959465,77.7474184
+Access 2 Future,hifi,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232686,node/1147232686,1147232686,12.9599907,77.7477941
+Bata,shoes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147232688,node/1147232688,1147232688,12.9595384,77.7478764
+Pepe Jeans,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147277937,node/1147277937,1147277937,12.9594578,77.747309
+Puma,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147277938,node/1147277938,1147277938,12.9594131,77.7483032
+The Book Shelf,books,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147277940,node/1147277940,1147277940,12.9599518,77.7483908
+Jute Cottage,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147277942,node/1147277942,1147277942,12.9594081,77.7483956
+Mega Mart,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147277944,node/1147277944,1147277944,12.9593994,77.748519
+Peter England,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147281303,node/1147281303,1147281303,12.9597218,77.7478598
+Vivah,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147281304,node/1147281304,1147281304,12.9596342,77.7485167
+Neeru’S Fashion,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147281305,node/1147281305,1147281305,12.9597218,77.7475981
+Stanza,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147281306,node/1147281306,1147281306,12.9596244,77.7484878
+Soles,shoes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147281307,node/1147281307,1147281307,12.9595344,77.7479804
+Archies,gift,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147282670,node/1147282670,1147282670,12.9599805,77.7483366
+Bulchee,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147294837,node/1147294837,1147294837,12.9597243,77.747947
+WHIZZ,hifi,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147294839,node/1147294839,1147294839,12.9599793,77.7481599
+Levi's,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147294842,node/1147294842,1147294842,12.9595225,77.7472977
+ONKYO,hifi,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147294844,node/1147294844,1147294844,12.9599793,77.7482446
+Tommy Hilfiger,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147294847,node/1147294847,1147294847,12.9594565,77.7482378
+Zaari,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147294852,node/1147294852,1147294852,12.9597318,77.7480573
+United Colors of Benetton,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147294855,node/1147294855,1147294855,12.9594153,77.7483382
+Maheen,gift,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147294863,node/1147294863,1147294863,12.959938,77.7483391
+Soulmate,alcohol,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147294866,node/1147294866,1147294866,12.9598218,77.7478418
+Van Heusen,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147294870,node/1147294870,1147294870,12.9597343,77.7481599
+Alen Solly,clothes,Bengaluru,Forum Value Mall,,OpenStreetMap,https://www.openstreetmap.org/node/1147294877,node/1147294877,1147294877,12.9597243,77.748301
+Puma,clothes,Bengaluru,Varthur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1150839601,node/1150839601,1150839601,12.9569453,77.6992375
+Happy Mart,convenience,Bengaluru,Varthur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1150839607,node/1150839607,1150839607,12.956906,77.698972
+Reebok,clothes,Bengaluru,Varthur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1150839622,node/1150839622,1150839622,12.9569514,77.6992246
+Lilliput,clothes,Bengaluru,Varthur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1150839626,node/1150839626,1150839626,12.9568693,77.6987024
+Metro,wholesale,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/1185751513,node/1185751513,1185751513,12.9736907,77.6412647
+Damro,furniture,Bengaluru,"Outer Ring Road, Marathahalli",,OpenStreetMap,https://www.openstreetmap.org/node/1275552778,node/1275552778,1275552778,12.949666,77.6991298
+City Pearl,supermarket,Bengaluru,Horamavu Agara Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1279116236,node/1279116236,1279116236,13.022202,77.6507704
+7 Days,supermarket,Bengaluru,Horamavu Agara Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1280318946,node/1280318946,1280318946,13.0228757,77.6509402
+MK Retail Super Market,supermarket,Bengaluru,"17th Cross Road, 560102",,OpenStreetMap,https://www.openstreetmap.org/node/1281143331,node/1281143331,1281143331,12.9118085,77.6512869
+Ann's View Bakery,bakery,Bengaluru,Thippasandra Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1328593758,node/1328593758,1328593758,12.972092,77.6526058
+MK Retail,supermarket,Bengaluru,"Chinmaya Mission Hospital Road, 560038",,OpenStreetMap,https://www.openstreetmap.org/node/1328610618,node/1328610618,1328610618,12.9787623,77.6446428
+Pai Electronics,hifi,Bengaluru,100 Feet Road( S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/1328610694,node/1328610694,1328610694,12.9781311,77.640699
+Sapna Book House,books,Bengaluru,80 Feet Road(Sir C.V. Raman Hospital Road),,OpenStreetMap,https://www.openstreetmap.org/node/1328610696,node/1328610696,1328610696,12.9790909,77.6467497
+HOPCOMS,greengrocer,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/1328610729,node/1328610729,1328610729,12.9781116,77.6409869
+lal rakhra sports shop,sports,Bengaluru,"15/39, Cambridge Road, Halasuru Police Station Road, Halasuru, 560008",080 2555 5684,OpenStreetMap,https://www.openstreetmap.org/node/1328617011,node/1328617011,1328617011,12.9692586,77.6286912
+Total Superstore,supermarket,Bengaluru,"1st Main Road, 560010",,OpenStreetMap,https://www.openstreetmap.org/node/1348265190,node/1348265190,1348265190,12.9827809,77.5592036
+Kalyani Motors,car,Bengaluru,Outer Ring Road,,OpenStreetMap,https://www.openstreetmap.org/node/1363243783,node/1363243783,1363243783,12.944784,77.5290622
+Mayura Bakery & Sweets,bakery,Bengaluru,"Whitefield Main Road, 560066",,OpenStreetMap,https://www.openstreetmap.org/node/1368933540,node/1368933540,1368933540,12.9698963,77.7501646
+Brother's Bakery,bakery,Bengaluru,"Whitefield Main Road, 560066",,OpenStreetMap,https://www.openstreetmap.org/node/1368933552,node/1368933552,1368933552,12.9701704,77.7498263
+Hero Honda,motorcycle,Bengaluru,Mysore Road,,OpenStreetMap,https://www.openstreetmap.org/node/1371765555,node/1371765555,1371765555,12.9473925,77.5337817
+Adyar Ananda Bhavan,confectionery,Bengaluru,"80 Feet Road, Koramangala, Bangalore, 560065",+91 77950 73031,OpenStreetMap,https://www.openstreetmap.org/node/1375978284,node/1375978284,1375978284,12.9358031,77.6147343
+Gem Plaza,mall,Bengaluru,Infantry Road,,OpenStreetMap,https://www.openstreetmap.org/node/1387516391,node/1387516391,1387516391,12.9803877,77.6046163
+Homeneeds,supermarket,Bengaluru,"107, 7th Main Road, 560076",80-33618025,OpenStreetMap,https://www.openstreetmap.org/node/1388103622,node/1388103622,1388103622,12.9106552,77.6063086
+Arihant Computers,computer,Bengaluru,S P Road,,OpenStreetMap,https://www.openstreetmap.org/node/1389206600,node/1389206600,1389206600,12.965161,77.584016
+MK Ahmed Bazar,supermarket,Bengaluru,"3rd Main Road, 560078",,OpenStreetMap,https://www.openstreetmap.org/node/1397260169,node/1397260169,1397260169,12.9052591,77.5951539
+Cromā,electronics,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/1420105733,node/1420105733,1420105733,12.9705482,77.6410087
+Super Market,supermarket,Bengaluru,Dinnur Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1422401765,node/1422401765,1422401765,13.0231839,77.6004176
+HOPCOMS,greengrocer,Bengaluru,"Inner Circle, 560066",,OpenStreetMap,https://www.openstreetmap.org/node/1434221653,node/1434221653,1434221653,12.9719429,77.7487073
+Karthik Sweets and Chats,confectionery,Bengaluru,"Whitefield Main Road, 560066",+91-80-41641300,OpenStreetMap,https://www.openstreetmap.org/node/1435078367,node/1435078367,1435078367,12.9792031,77.7513013
+Metro Stores,general,Bengaluru,"4th Main Road, 560038",,OpenStreetMap,https://www.openstreetmap.org/node/1436188891,node/1436188891,1436188891,12.9956683,77.6571952
+Westside,clothes,Bengaluru,Hosur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1459719058,node/1459719058,1459719058,12.934745,77.611659
+Reebok,clothes,Bengaluru,"21, Shop No.5, Hosur Road, 560095",,OpenStreetMap,https://www.openstreetmap.org/node/1459720916,node/1459720916,1459720916,12.934792,77.6113
+Metro,shoes,Bengaluru,Hosur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1459722798,node/1459722798,1459722798,12.934546,77.61107
+Addidas,clothes,Bengaluru,"11th main road, 560011",,OpenStreetMap,https://www.openstreetmap.org/node/1462141029,node/1462141029,1462141029,12.9324379,77.5862539
+Smart Bazaar,supermarket,Bengaluru,"Sarjapur Outer Ring Road, Bellandur, Bangalore, 560103",,OpenStreetMap,https://www.openstreetmap.org/node/1462947571,node/1462947571,1462947571,12.9260569,77.6753253
+More,supermarket,Bengaluru,"Hosur Road, 560095",,OpenStreetMap,https://www.openstreetmap.org/node/1462977137,node/1462977137,1462977137,12.9341298,77.6109889
+Archies,gift,Bengaluru,"Hosur Road, 560095",,OpenStreetMap,https://www.openstreetmap.org/node/1462977852,node/1462977852,1462977852,12.9348719,77.6114029
+Forum Cars,car,Bengaluru,"Near Forum Mall, Koramangala, 560095",,OpenStreetMap,https://www.openstreetmap.org/node/1462978306,node/1462978306,1462978306,12.9342498,77.6099223
+Sachin's Autoshop,car_repair,Bengaluru,"Near BOSCH Back Gate, Koramangala, Bangalore, 560095",,OpenStreetMap,https://www.openstreetmap.org/node/1462994517,node/1462994517,1462994517,12.9365162,77.6135755
+Star Bazaar,supermarket,Bengaluru,Bangalore-Mysore Road,,OpenStreetMap,https://www.openstreetmap.org/node/1463547878,node/1463547878,1463547878,12.9358801,77.5176749
+Ali-n-Arts Florist,florist,Bengaluru,"Hosur Road, 560095",,OpenStreetMap,https://www.openstreetmap.org/node/1463612973,node/1463612973,1463612973,12.9351451,77.611553
+Kanti Sweets,bakery,Bengaluru,"No. 1148, Kanakadasa Circle, BEML Layout 3rd Stage, RR Nagar,, 560098",,OpenStreetMap,https://www.openstreetmap.org/node/1463804689,node/1463804689,1463804689,12.9149661,77.5208319
+More Supermarket,supermarket,Bengaluru,"Adugodi main road, 560095",,OpenStreetMap,https://www.openstreetmap.org/node/1464156665,node/1464156665,1464156665,12.9423147,77.6150065
+Lifestyle,clothes,Bengaluru,"Near SonyWorld Signal, Koramangala, Bangalore",,OpenStreetMap,https://www.openstreetmap.org/node/1464782313,node/1464782313,1464782313,12.9375475,77.6279931
+Cromā,electronics,Bengaluru,"near Sony World signal, Koramangala, Bangalore",,OpenStreetMap,https://www.openstreetmap.org/node/1464782937,node/1464782937,1464782937,12.9380019,77.62749
+Mystique Saloons,hairdresser,Bengaluru,"Koramangala, Bangalore",,OpenStreetMap,https://www.openstreetmap.org/node/1464792416,node/1464792416,1464792416,12.9352432,77.6248678
+Manyavar,clothes,Bengaluru,"80 Feet Peripheral Rd, Koramangala 6 Block, KoramangalaBengaluru, Karnataka, India",,OpenStreetMap,https://www.openstreetmap.org/node/1464958052,node/1464958052,1464958052,12.9376456,77.626351
+Ladies Wear House,clothes,Bengaluru,Gandhi Bazar,,OpenStreetMap,https://www.openstreetmap.org/node/1465008466,node/1465008466,1465008466,12.9454627,77.5714069
+Food world,supermarket,Bengaluru,Gandhi Bazar Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1465009282,node/1465009282,1465009282,12.9444504,77.5722351
+Little Flower Bakery,bakery,Bengaluru,"Tuasi theater rd, 3rd cross, Marathalli east",,OpenStreetMap,https://www.openstreetmap.org/node/1465217391,node/1465217391,1465217391,12.9548561,77.6981235
+Navya shree sarees,clothes,Bengaluru,"17th C Main, 560095",,OpenStreetMap,https://www.openstreetmap.org/node/1465272544,node/1465272544,1465272544,12.9371376,77.6241392
+Bata,shoes,Bengaluru,27th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1465439250,node/1465439250,1465439250,12.9233246,77.6514168
+Landmark,hifi,Bengaluru,"Hosur Road, 560095",,OpenStreetMap,https://www.openstreetmap.org/node/1465515463,node/1465515463,1465515463,12.9345734,77.6115121
+Computer Mall,computer,Bengaluru,"Koramangala, Bangalore",,OpenStreetMap,https://www.openstreetmap.org/node/1465570259,node/1465570259,1465570259,12.9362282,77.61472
+Bata,shoes,Bengaluru,Ramesh nagar road,,OpenStreetMap,https://www.openstreetmap.org/node/1465574767,node/1465574767,1465574767,12.9717678,77.6811933
+Store,convenience,Bengaluru,Manipal County Road,,OpenStreetMap,https://www.openstreetmap.org/node/1465590356,node/1465590356,1465590356,12.8737198,77.6448305
+Madhuloka,alcohol,Bengaluru,Koramangala 5t cross,,OpenStreetMap,https://www.openstreetmap.org/node/1465646870,node/1465646870,1465646870,12.9368587,77.6200385
+fulki,clothes,Bengaluru,"55, 6th block koramangala, 560095",,OpenStreetMap,https://www.openstreetmap.org/node/1465668254,node/1465668254,1465668254,12.9366384,77.6206523
+U Fashion store,clothes,Bengaluru,"100, 5th cross 5th block koramangala, 560095",,OpenStreetMap,https://www.openstreetmap.org/node/1465678880,node/1465678880,1465678880,12.9365443,77.6205772
+Forum bakery,convenience,Bengaluru,"Adugodi main road, 560095",,OpenStreetMap,https://www.openstreetmap.org/node/1465777960,node/1465777960,1465777960,12.9418577,77.6159961
+Levi's,clothes,Bengaluru,"Kathriguppa main road, 560085",,OpenStreetMap,https://www.openstreetmap.org/node/1466478562,node/1466478562,1466478562,12.925977,77.5504903
+Puma,clothes,Bengaluru,"92/3, Kathriguppa Main Road, Banashankri, 560085",080 4171 1671,OpenStreetMap,https://www.openstreetmap.org/node/1466479502,node/1466479502,1466479502,12.927054,77.5506405
+Vignesh Jewellary,jewelry,Bengaluru,"1756, 18th Main Road, 560078",,OpenStreetMap,https://www.openstreetmap.org/node/1466692902,node/1466692902,1466692902,12.9104428,77.590838
+Nandini Milk Diary,convenience,Bengaluru,2nd Cross LIC Colony,,OpenStreetMap,https://www.openstreetmap.org/node/1466726396,node/1466726396,1466726396,12.9309732,77.5901342
+F M Silks,clothes,Bengaluru,"115, 80 feet road, 560095",,OpenStreetMap,https://www.openstreetmap.org/node/1466731605,node/1466731605,1466731605,12.9351927,77.6136464
+Car & Bike Store,car,Bengaluru,Hosur road,,OpenStreetMap,https://www.openstreetmap.org/node/1467032774,node/1467032774,1467032774,12.9135109,77.6245166
+Kwality BIg Bazaar,convenience,Bengaluru,"51, 80 Feet Road, Rmv Extension,, 560094",080-23515851,OpenStreetMap,https://www.openstreetmap.org/node/1467362696,node/1467362696,1467362696,13.0285232,77.5716015
+Nike,clothes,Bengaluru,11th main,,OpenStreetMap,https://www.openstreetmap.org/node/1467496954,node/1467496954,1467496954,12.9321895,77.5862459
+United Colors of Benetton,clothes,Bengaluru,11th main,,OpenStreetMap,https://www.openstreetmap.org/node/1467498342,node/1467498342,1467498342,12.9322783,77.5862513
+Max,clothes,Bengaluru,11th main,,OpenStreetMap,https://www.openstreetmap.org/node/1467500275,node/1467500275,1467500275,12.9318182,77.5862459
+she,clothes,Bengaluru,11th main,,OpenStreetMap,https://www.openstreetmap.org/node/1467501709,node/1467501709,1467501709,12.9305893,77.5862057
+Sri Lakshmi Venkateshwara Provision Stores,convenience,Bengaluru,"161, 3rd Block, T. R. Nagar, 6th Cross, 6th Main, 560028",,OpenStreetMap,https://www.openstreetmap.org/node/1467778590,node/1467778590,1467778590,12.9333966,77.5660039
+Baby Center,clothes,Bengaluru,Commercial Street,,OpenStreetMap,https://www.openstreetmap.org/node/1468032543,node/1468032543,1468032543,12.9825987,77.6070246
+Bata,shoes,Bengaluru,Commercial Street,,OpenStreetMap,https://www.openstreetmap.org/node/1468032545,node/1468032545,1468032545,12.9821744,77.6081695
+Westside,clothes,Bengaluru,"Commercial Street, 560084",,OpenStreetMap,https://www.openstreetmap.org/node/1468032547,node/1468032547,1468032547,12.9826293,77.6068536
+GK Vale studio,electronics,Bengaluru,22 cross Hsr2,,OpenStreetMap,https://www.openstreetmap.org/node/1468161640,node/1468161640,1468161640,12.908852,77.6462728
+Mom & Me,baby_goods,Bengaluru,"17 cross, Hsr3",,OpenStreetMap,https://www.openstreetmap.org/node/1468245448,node/1468245448,1468245448,12.9124281,77.6395176
+Kanti Sweets,confectionery,Bengaluru,"5th cross Koramangala, 560095",,OpenStreetMap,https://www.openstreetmap.org/node/1468516366,node/1468516366,1468516366,12.9356613,77.621933
+Kinetic Zone Service station,car_repair,Bengaluru,"17th b main koramangala, 560095",,OpenStreetMap,https://www.openstreetmap.org/node/1468516370,node/1468516370,1468516370,12.9364508,77.6239983
+Samsung,electronics,Bengaluru,27th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1468908298,node/1468908298,1468908298,12.9236151,77.6514854
+Dream World,gift,Bengaluru,"86/1, Saunders Road, 560005",+91 80 6564 6060,OpenStreetMap,https://www.openstreetmap.org/node/1469190369,node/1469190369,1469190369,12.9961919,77.6115235
+Lakme,hairdresser,Bengaluru,"Coles Road, 560005",,OpenStreetMap,https://www.openstreetmap.org/node/1469190382,node/1469190382,1469190382,12.9961891,77.613053
+Mutton Shop,butcher,Bengaluru,Saint John's Church Road,,OpenStreetMap,https://www.openstreetmap.org/node/1469196568,node/1469196568,1469196568,12.9936175,77.6083773
+Zecode,clothes,Bengaluru,Hosur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1469643922,node/1469643922,1469643922,12.9124691,77.6260462
+Toyota Used Cars,car,Bengaluru,Hosur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1469644050,node/1469644050,1469644050,12.8841338,77.6434522
+RNS Maruti Motors,car,Bengaluru,Hosur road,,OpenStreetMap,https://www.openstreetmap.org/node/1470412730,node/1470412730,1470412730,12.8969624,77.6345783
+Soch,clothes,Bengaluru,Hosur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1470539723,node/1470539723,1470539723,12.9348619,77.6112385
+Nexus Mall Koramangla,alcohol,Bengaluru,Hosur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1470541759,node/1470541759,1470541759,12.93419,77.6109248
+United Colors of Benetton,clothes,Bengaluru,Hosur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1470608018,node/1470608018,1470608018,12.9345459,77.6114217
+Levi's,clothes,Bengaluru,Hosur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1470608021,node/1470608021,1470608021,12.934891,77.6110462
+Raymonds,clothes,Bengaluru,Hosur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1470608022,node/1470608022,1470608022,12.9341695,77.6110462
+Ayesha,jewelry,Bengaluru,Hosur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1470856078,node/1470856078,1470856078,12.9347915,77.6109681
+Cookie Man,bakery,Bengaluru,Hosur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1470856090,node/1470856090,1470856090,12.9347444,77.6110003
+Sangeeta Mobiles,hifi,Bengaluru,Hosur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1470856097,node/1470856097,1470856097,12.9346922,77.6110539
+Samsung,electronics,Bengaluru,Hosur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1470856144,node/1470856144,1470856144,12.9347706,77.6110968
+Hero Motocorp,motorcycle,Bengaluru,Hosur road,,OpenStreetMap,https://www.openstreetmap.org/node/1471685731,node/1471685731,1471685731,12.911347,77.626597
+Tara Fiat Service,car_repair,Bengaluru,Hosur road,,OpenStreetMap,https://www.openstreetmap.org/node/1471690115,node/1471690115,1471690115,12.9145174,77.6239184
+Dakshin Honda,car,Bengaluru,Hosur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1471800769,node/1471800769,1471800769,12.8830146,77.6442833
+Bhima,jewelry,Bengaluru,Jyothinivas college road,,OpenStreetMap,https://www.openstreetmap.org/node/1472014087,node/1472014087,1472014087,12.9324841,77.6137336
+Trident Huyndai,car,Bengaluru,Hosur road,,OpenStreetMap,https://www.openstreetmap.org/node/1472708025,node/1472708025,1472708025,12.8905612,77.6397057
+@home,furniture,Bengaluru,Hosur road,,OpenStreetMap,https://www.openstreetmap.org/node/1472748545,node/1472748545,1472748545,12.9335885,77.6107455
+Ag Arcade,hardware,Bengaluru,Hosur road,,OpenStreetMap,https://www.openstreetmap.org/node/1473088751,node/1473088751,1473088751,12.903346,77.631724
+Sri Krishna Bhavan Sweets,bakery,Bengaluru,"Sanjaynagar Main Road, 560094",,OpenStreetMap,https://www.openstreetmap.org/node/1473169657,node/1473169657,1473169657,13.0383519,77.5742318
+Atlas Travels,travel_agency,Bengaluru,Hosur road,,OpenStreetMap,https://www.openstreetmap.org/node/1473821768,node/1473821768,1473821768,12.925908,77.61691
+Millennium Optical's,optician,Bengaluru,27 main,,OpenStreetMap,https://www.openstreetmap.org/node/1474164015,node/1474164015,1474164015,12.917524,77.651553
+Vision Express,optician,Bengaluru,27 main,,OpenStreetMap,https://www.openstreetmap.org/node/1474165128,node/1474165128,1474165128,12.917403,77.651532
+Sweet Chariot,pastry,Bengaluru,"93/2, Mosque Road, 560005",,OpenStreetMap,https://www.openstreetmap.org/node/1474195332,node/1474195332,1474195332,12.9968718,77.6143631
+Albert Bakery,bakery,Bengaluru,"93, Mosque Road, 560005",,OpenStreetMap,https://www.openstreetmap.org/node/1474195348,node/1474195348,1474195348,12.9966022,77.614216
+Flying machine,clothes,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/1474220550,node/1474220550,1474220550,12.9783144,77.6444829
+Nature's Basket,supermarket,Bengaluru,"Chinmaya Mission Hospital Road, 560038",,OpenStreetMap,https://www.openstreetmap.org/node/1474220552,node/1474220552,1474220552,12.978261,77.6431384
+Suvasa,clothes,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/1474220566,node/1474220566,1474220566,12.9689232,77.641585
+Saundh,clothes,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/1474254702,node/1474254702,1474254702,12.9689476,77.6416265
+Van Heusen,clothes,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/1474254705,node/1474254705,1474254705,12.9713714,77.6409298
+Erwan Thai SPA,beauty,Bengaluru,100 Feet Road( S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/1474254709,node/1474254709,1474254709,12.9709774,77.6410458
+Nandini,dairy,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/1474258840,node/1474258840,1474258840,12.977996,77.6409891
+Reebok Junior,hifi,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/1474258846,node/1474258846,1474258846,12.9762078,77.6412027
+Karachi Bakery,bakery,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/1474258857,node/1474258857,1474258857,12.9773859,77.6411324
+Malabar Jewellery,jewelry,Bengaluru,"183, Dickenson Road, 560042",,OpenStreetMap,https://www.openstreetmap.org/node/1474299234,node/1474299234,1474299234,12.9810398,77.6104463
+Max,clothes,Bengaluru,"119/120, Commercial Street, 560084",,OpenStreetMap,https://www.openstreetmap.org/node/1474302939,node/1474302939,1474302939,12.9827449,77.6069771
+Sri Krishna Diamond and Jewellery,jewelry,Bengaluru,"1, Commercial Street, 560042",,OpenStreetMap,https://www.openstreetmap.org/node/1474302940,node/1474302940,1474302940,12.9814894,77.6101459
+The Brown Shop,clothes,Bengaluru,"20, Commercial Street, 560084",,OpenStreetMap,https://www.openstreetmap.org/node/1474308850,node/1474308850,1474308850,12.9817871,77.6092771
+Lee Showroom,clothes,Bengaluru,"Commercial Street, 560042",,OpenStreetMap,https://www.openstreetmap.org/node/1474308851,node/1474308851,1474308851,12.9816462,77.6095934
+Levi's,clothes,Bengaluru,Kamaraj Road,,OpenStreetMap,https://www.openstreetmap.org/node/1474308854,node/1474308854,1474308854,12.9811601,77.6102478
+Bakery,bakery,Bengaluru,8th Cross,,OpenStreetMap,https://www.openstreetmap.org/node/1474432228,node/1474432228,1474432228,12.9316137,77.6072662
+Ashirwad Super Market,supermarket,Bengaluru,"7th Main Road, 560076",+91-80-65333340,OpenStreetMap,https://www.openstreetmap.org/node/1474819351,node/1474819351,1474819351,12.9151822,77.6059587
+Health and Glow,supermarket,Bengaluru,"156, 19th Main (Goorur Ramaswamy Iyengar Road), 560010",+(91)-80-32466651,OpenStreetMap,https://www.openstreetmap.org/node/1474819894,node/1474819894,1474819894,12.9963776,77.5514093
+Lulu Hypermarket,supermarket,Bengaluru,"Swamy Vivekananda Road (Old Madras Road), Nagarvarapalya, 560016",,OpenStreetMap,https://www.openstreetmap.org/node/1477494236,node/1477494236,1477494236,12.9936382,77.6640329
+Sangeetha Mobiles,mobile_phone,Bengaluru,"999, 5th Cross Road, 560076",07019450931,OpenStreetMap,https://www.openstreetmap.org/node/1568844529,node/1568844529,1568844529,12.8926814,77.6104995
+MK Ahmed Super Market,supermarket,Bengaluru,"Mallathahalli Road, 560072",,OpenStreetMap,https://www.openstreetmap.org/node/1581348944,node/1581348944,1581348944,12.9607559,77.5070056
+Shoprite,supermarket,Bengaluru,Nagarbhavi 80 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/1581434245,node/1581434245,1581434245,12.9606694,77.5122249
+Nilgiri's,supermarket,Bengaluru,"156, Neeladri Road, 560100",+918028520696,OpenStreetMap,https://www.openstreetmap.org/node/1586948313,node/1586948313,1586948313,12.841522,77.6475948
+Whitefield Fish and Chicken Centre,butcher,Bengaluru,"Immadihalli Road, 560066",,OpenStreetMap,https://www.openstreetmap.org/node/1590229359,node/1590229359,1590229359,12.9697192,77.7502278
+Lifestyle,clothes,Bengaluru,"Swamy Vivekananda Road, 560016",,OpenStreetMap,https://www.openstreetmap.org/node/1607458589,node/1607458589,1607458589,12.9929957,77.6618949
+Shivananda Stores,convenience,Bengaluru,Kumarakripa East,,OpenStreetMap,https://www.openstreetmap.org/node/1614268199,node/1614268199,1614268199,12.9867564,77.5795592
+Super Market,convenience,Bengaluru,"Mallesh Palaya 5th Main, 560075",,OpenStreetMap,https://www.openstreetmap.org/node/1675527565,node/1675527565,1675527565,12.9762388,77.6738244
+More Store,convenience,Bengaluru,"145, 5th Main Road, Malleshpalya, 560075",+91-80-64535780,OpenStreetMap,https://www.openstreetmap.org/node/1675529723,node/1675529723,1675529723,12.974059,77.673001
+Happy Land Store,convenience,Bengaluru,"Maheshwari Nagar, Mahadevapura, 560048",,OpenStreetMap,https://www.openstreetmap.org/node/1717904864,node/1717904864,1717904864,12.9914612,77.6909164
+LifeLine Tender Chicken,butcher,Bengaluru,"080-22744402, Dinnur Main Road, 560032",,OpenStreetMap,https://www.openstreetmap.org/node/1722621793,node/1722621793,1722621793,13.0227783,77.6014591
+DMart,supermarket,Bengaluru,"Sy. No. 46/1, ANR Complex, Ramamurthy Nagar Main Road",,OpenStreetMap,https://www.openstreetmap.org/node/1725094667,node/1725094667,1725094667,13.0123108,77.6672269
+Z Shoppe,supermarket,Bengaluru,"579, 6th Cross",+91 80 252171841,OpenStreetMap,https://www.openstreetmap.org/node/1760015500,node/1760015500,1760015500,12.9662704,77.6497422
+Burma Supernarket,supermarket,Bengaluru,"116, Malleshpalya Main Road, 560075",+91-80-25340194,OpenStreetMap,https://www.openstreetmap.org/node/1776312874,node/1776312874,1776312874,12.9736082,77.6743886
+Madhiraa,alcohol,Bengaluru,Rashtriya Vidyalaya Road,,OpenStreetMap,https://www.openstreetmap.org/node/1794017010,node/1794017010,1794017010,12.9452338,77.579897
+Baker's Pride,bakery,Bengaluru,"Chord Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/1809619296,node/1809619296,1809619296,12.9713043,77.5365288
+Amarland Departmental,convenience,Bengaluru,Nagarbhavi Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1811327699,node/1811327699,1811327699,12.9729823,77.5294961
+Go Green Vegetables,greengrocer,Bengaluru,Nagarbhavi Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1811327746,node/1811327746,1811327746,12.9728027,77.5296137
+Manokamana Cermanic,mall,Bengaluru,Hosur Road,,OpenStreetMap,https://www.openstreetmap.org/node/1824140227,node/1824140227,1824140227,12.942312,77.60802
+Karanth Vihar,bakery,Bengaluru,Pattegarara Palya Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1843664896,node/1843664896,1843664896,12.9761262,77.5307639
+Hopcoms Mangalore Store,convenience,Bengaluru,Nagarbhavi Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1843672251,node/1843672251,1843672251,12.9729139,77.5285404
+Shopper City,supermarket,Bengaluru,Nagarbhavi Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/1843680399,node/1843680399,1843680399,12.9762502,77.5320438
+M K Ahmed Super Shoppy,supermarket,Bengaluru,"6th Main Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/1843724025,node/1843724025,1843724025,12.972595,77.5395133
+DIVA Boutique,clothes,Bengaluru,"No.6, 5th Cross, Amarjyothi Nagar, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/1902542473,node/1902542473,1902542473,12.9747524,77.5302655
+Blossom Book House,books,Bengaluru,"Church Street, Ashok Nagar, 560001",,OpenStreetMap,https://www.openstreetmap.org/node/1928474895,node/1928474895,1928474895,12.9748172,77.6052245
+Tamanna,clothes,Bengaluru,Dispensary Road,,OpenStreetMap,https://www.openstreetmap.org/node/1931940008,node/1931940008,1931940008,12.9816856,77.6083084
+Pearl City Super Market,supermarket,Bengaluru,"3/6, Devarachikkanahalli Road, 560076",(91)-80-41534792,OpenStreetMap,https://www.openstreetmap.org/node/1989246820,node/1989246820,1989246820,12.8831879,77.6102566
+Maha Bazar,supermarket,Bengaluru,"New BEL Road, 560054",(91)-80-33293209,OpenStreetMap,https://www.openstreetmap.org/node/1999582217,node/1999582217,1999582217,13.0370746,77.5656715
+Rajkumar Cards,gift,Bengaluru,Sultanpete Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2016154123,node/2016154123,2016154123,12.9694808,77.5729285
+Sangam Sweets,confectionery,Bengaluru,Kumarakripa East,,OpenStreetMap,https://www.openstreetmap.org/node/2025970826,node/2025970826,2025970826,12.9866761,77.5796529
+Next Electronic Shop,hifi,Bengaluru,Modi Hospital road,,OpenStreetMap,https://www.openstreetmap.org/node/2027517345,node/2027517345,2027517345,12.9984475,77.5423888
+Reliance Fresh,supermarket,Bengaluru,"Nagashettihalli, Sanjay Nagar,, 560094",80-22965183,OpenStreetMap,https://www.openstreetmap.org/node/2104341409,node/2104341409,2104341409,13.0321646,77.5765785
+Benison,supermarket,Bengaluru,Bannerghatta Road,,OpenStreetMap,https://www.openstreetmap.org/node/2254725057,node/2254725057,2254725057,12.8836585,77.5959959
+Supriya Stores,convenience,Bengaluru,1st Cross Road,,OpenStreetMap,https://www.openstreetmap.org/node/2285469459,node/2285469459,2285469459,12.9355043,77.6314571
+DVK Biking,motorcycle,Bengaluru,"59/1, 1st Cross Road",,OpenStreetMap,https://www.openstreetmap.org/node/2310741973,node/2310741973,2310741973,12.9714432,77.6476938
+Ample Mart,supermarket,Bengaluru,"Akshayanagar, 560068",,OpenStreetMap,https://www.openstreetmap.org/node/2339552995,node/2339552995,2339552995,12.8759179,77.6167938
+Imagine Store,electronics,Bengaluru,"6, Swamy Vivekananda Road, 560016",+91 80 67142201,OpenStreetMap,https://www.openstreetmap.org/node/2480865069,node/2480865069,2480865069,12.9930746,77.6617576
+Liberty Footwear,shoes,Bengaluru,"Nagarabhavi Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2480869566,node/2480869566,2480869566,12.9751503,77.5309191
+Techno Products,hardware,Bengaluru,"65, 2nd Cross, 560079",+91 80 2338 1707,OpenStreetMap,https://www.openstreetmap.org/node/2480869567,node/2480869567,2480869567,12.9726369,77.5278728
+Mylara Home Appliances,electronics,Bengaluru,"Vijayanagar Water Tank Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2480870842,node/2480870842,2480870842,12.9746645,77.5324339
+Divashree General Stores,department_store,Bengaluru,"2nd cross, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2480884727,node/2480884727,2480884727,12.9719476,77.5320111
+HOPCOMS Vegetables Store,greengrocer,Bengaluru,"3rd Main Saraswathi nagar, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2480884728,node/2480884728,2480884728,12.972547,77.529541
+Piggy Wiggy,toys,Bengaluru,"Vijayanagar Water Tank Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2480884768,node/2480884768,2480884768,12.9744756,77.5334818
+Kiran Traders,department_store,Bengaluru,"Vijayanagar Water Tank Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2480884792,node/2480884792,2480884792,12.9744507,77.5335676
+Wildcrafts,bag,Bengaluru,"Swamy Vivekananda Road, 560016",,OpenStreetMap,https://www.openstreetmap.org/node/2481030017,node/2481030017,2481030017,12.9929234,77.6614361
+Bata,shoes,Bengaluru,"Swamy Vivekananda Road (Old Madras Road), 560016",,OpenStreetMap,https://www.openstreetmap.org/node/2481972745,node/2481972745,2481972745,12.9941566,77.6637825
+Baby's Planet,baby_goods,Bengaluru,"20th Main, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2483622553,node/2483622553,2483622553,12.9683417,77.5379567
+Prestige Smart Kitchen,yes,Bengaluru,"Chord Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2483622555,node/2483622555,2483622555,12.9686867,77.5373687
+Mom & Me,clothes,Bengaluru,"Chord Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2483744030,node/2483744030,2483744030,12.97037,77.5368838
+New L M Silks,clothes,Bengaluru,"Chord Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2483744038,node/2483744038,2483744038,12.970877,77.5364976
+Aadishwar,electronics,Bengaluru,"Chord Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2483744049,node/2483744049,2483744049,12.9700505,77.5367565
+Sheema's Shop Right,grocery,Bengaluru,"Chord Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2483744059,node/2483744059,2483744059,12.97106,77.5366692
+Nanjudeshwara Stationary,stationery,Bengaluru,"Chord Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2483744065,node/2483744065,2483744065,12.9710025,77.5369321
+Travel Hut Bag Shop,bag,Bengaluru,"Chord Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2483744080,node/2483744080,2483744080,12.9709711,77.5369589
+Sunny Wines,wine,Bengaluru,"Chord Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2483779677,node/2483779677,2483779677,12.9687286,77.5371939
+Miracle Touch Beauty Parlour,beauty,Bengaluru,"Nagarabhavi Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2483783781,node/2483783781,2483783781,12.9751453,77.5309427
+Blak,shoes,Bengaluru,"20th Main, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2487524450,node/2487524450,2487524450,12.9683779,77.5380113
+Liberty Exclusive Showroom,shoes,Bengaluru,"20th Main, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2487524456,node/2487524456,2487524456,12.9684412,77.5373058
+"Panchamukhi Motors, Bajar Service Station",motorcycle,Bengaluru,"Pipeline Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2487524460,node/2487524460,2487524460,12.9664835,77.5443788
+Nutan Silks,clothes,Bengaluru,Dispensary Road,,OpenStreetMap,https://www.openstreetmap.org/node/2487524465,node/2487524465,2487524465,12.9814915,77.6083334
+Geetanjali,jewelry,Bengaluru,Dispensary Road,,OpenStreetMap,https://www.openstreetmap.org/node/2487524466,node/2487524466,2487524466,12.9814677,77.6084953
+Lake N Bake,bakery,Bengaluru,Kamaraj Road,,OpenStreetMap,https://www.openstreetmap.org/node/2487524467,node/2487524467,2487524467,12.9811096,77.6102253
+Benaka Sweets,bakery,Bengaluru,"Chord Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2487658330,node/2487658330,2487658330,12.9726552,77.5378281
+Titan Eye+,beauty,Bengaluru,"5th Main, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2487658337,node/2487658337,2487658337,12.9730643,77.5400637
+Vision Express,optician,Bengaluru,2nd Cross,,OpenStreetMap,https://www.openstreetmap.org/node/2489009755,node/2489009755,2489009755,12.9668706,77.543321
+IFB Point,electronics,Bengaluru,"2 Cross, Ram Mandir Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489009756,node/2489009756,2489009756,12.9669804,77.5430045
+RMKV Silks,clothes,Bengaluru,Dr. Rajkumar Road,,OpenStreetMap,https://www.openstreetmap.org/node/2489009764,node/2489009764,2489009764,13.0103379,77.5549593
+Debenhams,hifi,Bengaluru,"G08, G09, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489009765,node/2489009765,2489009765,13.0101708,77.5548457
+Debenhams Cosmetic,cosmetics,Bengaluru,"G07, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489009766,node/2489009766,2489009766,13.0101633,77.5550943
+Landmark,convenience,Bengaluru,"G28, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489009767,node/2489009767,2489009767,13.0101713,77.5549686
+Reebok,clothes,Bengaluru,"G29, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489009771,node/2489009771,2489009771,13.010998,77.5553637
+Espirit,watch,Bengaluru,"G30, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489009772,node/2489009772,2489009772,13.0109007,77.5548788
+Ethos,watch,Bengaluru,"G37A, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489009775,node/2489009775,2489009775,13.0108303,77.5549373
+Tommy Hilfiger,clothes,Bengaluru,"G02, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489009776,node/2489009776,2489009776,13.0107847,77.5548782
+Wills Lifestyle,clothes,Bengaluru,"G03, G04, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489009777,node/2489009777,2489009777,13.0107206,77.5549405
+Elle,cosmetics,Bengaluru,"G05, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489009778,node/2489009778,2489009778,13.0106746,77.5548767
+Swarovski,hifi,Bengaluru,"G06, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489009779,node/2489009779,2489009779,13.0103911,77.5548848
+Nautica,hifi,Bengaluru,"G10, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489009780,node/2489009780,2489009780,13.0105296,77.5548792
+Samsonite,bag,Bengaluru,"G10A, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489009781,node/2489009781,2489009781,13.0104749,77.5548867
+Chemistry,clothes,Bengaluru,"G11, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489009782,node/2489009782,2489009782,13.0102981,77.5548904
+Levi's,clothes,Bengaluru,"G12, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489009783,node/2489009783,2489009783,13.0100944,77.5549108
+United Colors of Benetton,clothes,Bengaluru,"G13, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489009784,node/2489009784,2489009784,13.0102817,77.5549652
+Jack & Jones,clothes,Bengaluru,"G14, G15, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489017279,node/2489017279,2489017279,13.0104166,77.5549615
+Mango,clothes,Bengaluru,"G19, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489017282,node/2489017282,2489017282,13.0106066,77.5549374
+Westside,clothes,Bengaluru,"G27, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489017285,node/2489017285,2489017285,13.0104539,77.5553095
+Balckberrys,clothes,Bengaluru,"UG01, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489017288,node/2489017288,2489017288,13.010514,77.5553829
+Bata,shoes,Bengaluru,"UG02, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489017291,node/2489017291,2489017291,13.0103911,77.5553855
+Fasttrack,watch,Bengaluru,"UG04, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489017299,node/2489017299,2489017299,13.0101943,77.5554198
+Hidesign,bag,Bengaluru,Dr. Rajkumar Road,,OpenStreetMap,https://www.openstreetmap.org/node/2489017302,node/2489017302,2489017302,13.0114964,77.5549008
+Da Milano,hifi,Bengaluru,"UG04A, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489017306,node/2489017306,2489017306,13.0100667,77.5552757
+Lee,clothes,Bengaluru,"UG05A, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489017309,node/2489017309,2489017309,13.0100968,77.5551844
+Wrangler,clothes,Bengaluru,"UG06, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489017312,node/2489017312,2489017312,13.0100992,77.555032
+Central,clothes,Bengaluru,"UG07, UG08, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489017315,node/2489017315,2489017315,13.0100959,77.5547872
+U.S. Polo Assn.,clothes,Bengaluru,"UG12, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489029620,node/2489029620,2489029620,13.0113093,77.5549151
+Provogue,clothes,Bengaluru,"UG13, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489029624,node/2489029624,2489029624,13.0112178,77.5548584
+Rockport,shoes,Bengaluru,"UG14, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489042424,node/2489042424,2489042424,13.0112384,77.5553907
+Samsung,electronics,Bengaluru,"UG17, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489042425,node/2489042425,2489042425,13.0118669,77.5548539
+Adidas,sports,Bengaluru,"UG16, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489042426,node/2489042426,2489042426,13.0116388,77.5547987
+Arrrow,clothes,Bengaluru,"UG17, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489042427,node/2489042427,2489042427,13.0118174,77.5548097
+Celio,clothes,Bengaluru,"UG18, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489042428,node/2489042428,2489042428,13.0117593,77.5548097
+Imagine Store,electronics,Bengaluru,UG19-UG21,,OpenStreetMap,https://www.openstreetmap.org/node/2489042429,node/2489042429,2489042429,13.0115721,77.5547854
+Zodiac,clothes,Bengaluru,"UG22, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489042430,node/2489042430,2489042430,13.0117504,77.5552004
+Louis Phillippe,clothes,Bengaluru,"UG23, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489042431,node/2489042431,2489042431,13.0118154,77.5550156
+Van Huesen,clothes,Bengaluru,"UG23, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489042432,node/2489042432,2489042432,13.0117552,77.5550805
+Pepe,clothes,Bengaluru,"UG26, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489042435,node/2489042435,2489042435,13.0117279,77.5553093
+World of Titan,watch,Bengaluru,"UG26A, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489042436,node/2489042436,2489042436,13.0117851,77.5551919
+Star Bazar,supermarket,Bengaluru,"UG28, UG29, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489042438,node/2489042438,2489042438,13.0114494,77.555384
+Colorplus,clothes,Bengaluru,"UG30, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489042439,node/2489042439,2489042439,13.0117987,77.5552696
+Mochi,shoes,Bengaluru,"UG31, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489042440,node/2489042440,2489042440,13.0115445,77.5548961
+Clarks,shoes,Bengaluru,"UG32, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489042441,node/2489042441,2489042441,13.0115308,77.5548398
+LP,hifi,Bengaluru,"UG34, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489042442,node/2489042442,2489042442,13.0116624,77.5549201
+Allen Solly,clothes,Bengaluru,"UG35, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489193186,node/2489193186,2489193186,13.0115542,77.5554029
+Hush Puppies,shoes,Bengaluru,"UG36, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489193187,node/2489193187,2489193187,13.0115083,77.5553276
+Bagzone,bag,Bengaluru,"UG37, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489193188,node/2489193188,2489193188,13.0117528,77.5550085
+Accessorize,hifi,Bengaluru,"UG38, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489193189,node/2489193189,2489193189,13.0116388,77.5548517
+The Body Shop,hifi,Bengaluru,"UG38A, Dr. Rajkumar Road",,OpenStreetMap,https://www.openstreetmap.org/node/2489193190,node/2489193190,2489193190,13.0117313,77.5547545
+Inmark,clothes,Bengaluru,Main Guard Cross Road,,OpenStreetMap,https://www.openstreetmap.org/node/2496916039,node/2496916039,2496916039,12.9805404,77.6072557
+Thunderbird,leather_wear,Bengaluru,Commercial Street,,OpenStreetMap,https://www.openstreetmap.org/node/2496920248,node/2496920248,2496920248,12.9827176,77.6070474
+World of Titan,watches,Bengaluru,Commercial Street,,OpenStreetMap,https://www.openstreetmap.org/node/2496920252,node/2496920252,2496920252,12.9820759,77.6090805
+Mysore Saree Udyog,clothes,Bengaluru,Kamaraj Road,,OpenStreetMap,https://www.openstreetmap.org/node/2496920263,node/2496920263,2496920263,12.9814604,77.6104149
+Sterling House,clothes,Bengaluru,Commercial Street,,OpenStreetMap,https://www.openstreetmap.org/node/2496920267,node/2496920267,2496920267,12.9819531,77.6088847
+Prestige Smart Kitchen,kitchen,Bengaluru,"Siddhaiah Puranik Road, 560079",,OpenStreetMap,https://www.openstreetmap.org/node/2503514687,node/2503514687,2503514687,12.9917578,77.5386852
+The Planet Fashion,clothes,Bengaluru,Siddhaiah Puranik Road,,OpenStreetMap,https://www.openstreetmap.org/node/2504573699,node/2504573699,2504573699,12.9933829,77.5389467
+The Raymond Shop,clothes,Bengaluru,Siddhaiah Puranik Road,,OpenStreetMap,https://www.openstreetmap.org/node/2504573700,node/2504573700,2504573700,12.9932739,77.5388099
+World of Titan,watches,Bengaluru,Siddhaiah Puranik Road,,OpenStreetMap,https://www.openstreetmap.org/node/2504573701,node/2504573701,2504573701,12.9922983,77.5384739
+Titan Eye+,eye_care,Bengaluru,Siddhaiah Puranik Road,,OpenStreetMap,https://www.openstreetmap.org/node/2504573702,node/2504573702,2504573702,12.9917539,77.5383401
+Wrangler Jeans,clothes,Bengaluru,"Siddhaiah Puranik Road, 560079",,OpenStreetMap,https://www.openstreetmap.org/node/2504573704,node/2504573704,2504573704,12.9919077,77.5384055
+Lee Jeans,clothes,Bengaluru,"Siddhaiah Puranik Road, 560079",,OpenStreetMap,https://www.openstreetmap.org/node/2504573705,node/2504573705,2504573705,12.9919338,77.5384148
+Airtel,mobile_phone,Bengaluru,"2nd Main, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2504576087,node/2504576087,2504576087,12.9734237,77.5420407
+Kalasangam,clothes,Bengaluru,"Siddhaiah Puranik Road, 560079",,OpenStreetMap,https://www.openstreetmap.org/node/2505742902,node/2505742902,2505742902,12.9932236,77.5391579
+Master Kitchen,kitchen,Bengaluru,"Siddhaiah Puranik Road, 560079",,OpenStreetMap,https://www.openstreetmap.org/node/2505742907,node/2505742907,2505742907,12.9931034,77.5391257
+Datta Garments,clothes,Bengaluru,"Siddhaiah Puranik Road, 560079",,OpenStreetMap,https://www.openstreetmap.org/node/2505742912,node/2505742912,2505742912,12.9927023,77.5386456
+On Track Mobiles,mobile_phone,Bengaluru,"Siddhaiah Puranik Road, 560079",,OpenStreetMap,https://www.openstreetmap.org/node/2505742917,node/2505742917,2505742917,12.9918738,77.5386617
+Punjab Handlooms,clothes,Bengaluru,"Siddhaiah Puranik Road, 560079",,OpenStreetMap,https://www.openstreetmap.org/node/2505742918,node/2505742918,2505742918,12.9920018,77.5387341
+Srinivasa Wines,alcohol,Bengaluru,"1st main Basaveshwaranagar, 560079",,OpenStreetMap,https://www.openstreetmap.org/node/2505742971,node/2505742971,2505742971,12.9877574,77.5378544
+Mega Mart,clothes,Bengaluru,"Siddhaiah Puranik Road, 560079",,OpenStreetMap,https://www.openstreetmap.org/node/2505742993,node/2505742993,2505742993,12.9850131,77.5369987
+Dear N Near Furniture Store,furniture,Bengaluru,Nagarabhavi Road,,OpenStreetMap,https://www.openstreetmap.org/node/2509173743,node/2509173743,2509173743,12.970694,77.5254335
+Kurlon Matress Express,furniture,Bengaluru,Nagarabhavi Road,,OpenStreetMap,https://www.openstreetmap.org/node/2509173753,node/2509173753,2509173753,12.9705894,77.5259136
+Yashhas Electronics,electronics,Bengaluru,Nagarabhavi Road,,OpenStreetMap,https://www.openstreetmap.org/node/2509173775,node/2509173775,2509173775,12.9704823,77.5247496
+Foto Circle,photo,Bengaluru,Sheshadri Road,,OpenStreetMap,https://www.openstreetmap.org/node/2513569161,node/2513569161,2513569161,12.9800713,77.5746161
+Unique Saloon,hairdresser,Bengaluru,4th Cross,,OpenStreetMap,https://www.openstreetmap.org/node/2513569164,node/2513569164,2513569164,12.978788,77.5748548
+FBB,clothes,Bengaluru,Dr Rajkumar Road,,OpenStreetMap,https://www.openstreetmap.org/node/2513711691,node/2513711691,2513711691,12.9829933,77.5593852
+The Raymond Shop,clothes,Bengaluru,Dr Rajkumar Road,,OpenStreetMap,https://www.openstreetmap.org/node/2513711696,node/2513711696,2513711696,12.9801967,77.5543695
+Bangalore Wheels Yamaha Showroom,motorcycle,Bengaluru,Chord Road,,OpenStreetMap,https://www.openstreetmap.org/node/2513711700,node/2513711700,2513711700,12.973835,77.547621
+Kavitha Enterprises ( Indane Gas Agency ),Domestic_Gas_Agency,Bengaluru,Chord Road,,OpenStreetMap,https://www.openstreetmap.org/node/2513711708,node/2513711708,2513711708,12.9738559,77.5464945
+Univercell,mobile_phone,Bengaluru,"Chord Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2513711720,node/2513711720,2513711720,12.9736677,77.5433778
+Arya Sweets & Bakers,bakery,Bengaluru,"Chord Road, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2513711731,node/2513711731,2513711731,12.9734168,77.541865
+Sangeeta,mobile_phone,Bengaluru,4th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2514705825,node/2514705825,2514705825,12.9606817,77.5288446
+Inky Pinky,clothes,Bengaluru,4th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2514705827,node/2514705827,2514705827,12.9607235,77.5285201
+Feet Fashion,shoes,Bengaluru,4th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2514705832,node/2514705832,2514705832,12.9611548,77.5274043
+Sri Chamundi Jewellers,jewelry,Bengaluru,4th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2514705833,node/2514705833,2514705833,12.9609248,77.5273694
+Anu Opticles,optician,Bengaluru,4th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2514705836,node/2514705836,2514705836,12.9603863,77.5294186
+Sri Bhagyalakshmi Jewellers,jewelry,Bengaluru,4th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2514705837,node/2514705837,2514705837,12.9602661,77.5294025
+The Curves N Curls Beauty Center,beauty,Bengaluru,4th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2514705838,node/2514705838,2514705838,12.9603575,77.5294267
+Royal Canin Pet shop,pet,Bengaluru,4th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2514705839,node/2514705839,2514705839,12.9602112,77.5293891
+Eye Gallery,optician,Bengaluru,4th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2514705840,node/2514705840,2514705840,12.9605849,77.5301348
+Poohlala Musical Mings,music,Bengaluru,4th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2514705841,node/2514705841,2514705841,12.960679,77.5298263
+Just Books,books,Bengaluru,4th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2514705842,node/2514705842,2514705842,12.9605536,77.530226
+Baskin Robbins,ice_cream,Bengaluru,4th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2514705843,node/2514705843,2514705843,12.9605719,77.5301723
+Adalia Boutique,clothes,Bengaluru,Vinayaka Layout Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2514705846,node/2514705846,2514705846,12.964903,77.5302716
+Behtar Super Market,supermarket,Bengaluru,Marenhalli Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2514705847,node/2514705847,2514705847,12.9682121,77.5303413
+Zil Mil,boutique,Bengaluru,Marenhalli Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2514705848,node/2514705848,2514705848,12.9681781,77.5304191
+Sweet Land Bakery,bakery,Bengaluru,"Anantha Nagar Road, 560100",,OpenStreetMap,https://www.openstreetmap.org/node/2550426996,node/2550426996,2550426996,12.8353836,77.6843293
+Lakshmi Scotch Yard,alcohol,Bengaluru,Kothnur Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2621049954,node/2621049954,2621049954,12.887085,77.5819484
+Green Trends,beauty,Bengaluru,"Neeladri Road, 560100",080-30805941,OpenStreetMap,https://www.openstreetmap.org/node/2623054549,node/2623054549,2623054549,12.8411245,77.6500321
+W,clothes,Bengaluru,27th Cross,,OpenStreetMap,https://www.openstreetmap.org/node/2629337833,node/2629337833,2629337833,12.9306281,77.5857408
+Tata Motors,car,Bengaluru,"Hosur Road, 560095",,OpenStreetMap,https://www.openstreetmap.org/node/2647774007,node/2647774007,2647774007,12.9338666,77.6123477
+Adyar Ananda Bhavan,confectionery,Bengaluru,"38th Cross Road, 560041",+91 80 4167 3999,OpenStreetMap,https://www.openstreetmap.org/node/2649089252,node/2649089252,2649089252,12.9218455,77.5854901
+Village Supermarket,supermarket,Bengaluru,"Neeladri Road, 560100",,OpenStreetMap,https://www.openstreetmap.org/node/2649378042,node/2649378042,2649378042,12.8417635,77.6462476
+Big Bazar,supermarket,Bengaluru,"#253, 10th cross, 560064",,OpenStreetMap,https://www.openstreetmap.org/node/2664857108,node/2664857108,2664857108,12.9302745,77.5878322
+First Baby Store,baby_goods,Bengaluru,"No.13, Kothnur Main Road, J P Nagar, 7th Phase, Landmark - near Brigade Millennium Signal, 560078",080 4127 3999,OpenStreetMap,https://www.openstreetmap.org/node/2686938278,node/2686938278,2686938278,12.8889981,77.5820296
+Poorvika,electronics,Bengaluru,"Mahayogi Vemana Road, 560034",,OpenStreetMap,https://www.openstreetmap.org/node/2700229004,node/2700229004,2700229004,12.924596,77.6184995
+Fabindia,clothes,Bengaluru,"Mahayogi Vemana Road, 560068",,OpenStreetMap,https://www.openstreetmap.org/node/2746542444,node/2746542444,2746542444,12.9249779,77.6194667
+Harish Wines - MRP Outlet,alcohol,Bengaluru,"Rajaram Mohan Roy Road, 560025",,OpenStreetMap,https://www.openstreetmap.org/node/2760193388,node/2760193388,2760193388,12.9656224,77.5954265
+Mekhri Circle KTM,motorcycle,Bengaluru,"Achaiah Chetty Arcade, No.19,1st Cross, Achaiah Chetty Lay out, RMV Extension, Sadashiva Nagar, Mekhri Circle Junction, Karnataka 560080 Bengaluru",+91802361474,OpenStreetMap,https://www.openstreetmap.org/node/2821271866,node/2821271866,2821271866,13.0144365,77.5831503
+Classic Automotives,car,Bengaluru,CV Raman Road,,OpenStreetMap,https://www.openstreetmap.org/node/2821271870,node/2821271870,2821271870,13.014439,77.5829545
+Sweet Chariot,bakery,Bengaluru,Varthur Road,,OpenStreetMap,https://www.openstreetmap.org/node/2841271801,node/2841271801,2841271801,12.956521,77.709481
+C. Krishnaih Chetty & Sons.,jewelry,Bengaluru,"35 & 36, Commercial Street, 560001",+918040001869,OpenStreetMap,https://www.openstreetmap.org/node/2868082723,node/2868082723,2868082723,12.9820126,77.6086888
+Noor and co,furniture,Bengaluru,"121, Infantry Road, 560001",,OpenStreetMap,https://www.openstreetmap.org/node/2902562444,node/2902562444,2902562444,12.9808323,77.6023684
+Butter Sponge,bakery,Bengaluru,"vijayanagar, 560040",,OpenStreetMap,https://www.openstreetmap.org/node/2914384312,node/2914384312,2914384312,12.9642991,77.5406633
+Juice Junction,diagnostic_centre,Bengaluru,1 Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/2962764496,node/2962764496,2962764496,12.8923153,77.5981397
+Lenskart.com,optician,Bengaluru,"826, Jawaharlal Nehru Road, 560098",,OpenStreetMap,https://www.openstreetmap.org/node/2997256383,node/2997256383,2997256383,12.9192621,77.5204447
+Big Kids Kemp,clothes,Bengaluru,Mahatma Gandhi Road,,OpenStreetMap,https://www.openstreetmap.org/node/2999562190,node/2999562190,2999562190,12.9723821,77.6185949
+Army Canteen,yes,Bengaluru,Trinity Church Road,,OpenStreetMap,https://www.openstreetmap.org/node/2999619029,node/2999619029,2999619029,12.9689899,77.6200161
+C. Krishniah Chetty & Sons,jewelry,Bengaluru,"3A, Main Guard Cross Road, 560001",+918040001869,OpenStreetMap,https://www.openstreetmap.org/node/3002625515,node/3002625515,3002625515,12.9807537,77.6073428
+Mark & Spencer,supermarket,Bengaluru,"Inner Ring Road, 560047",,OpenStreetMap,https://www.openstreetmap.org/node/3016052466,node/3016052466,3016052466,12.9386176,77.6288681
+Chamundeshwari,clothes,Bengaluru,"Chidananda Maharashi Ashram Road, 560027",,OpenStreetMap,https://www.openstreetmap.org/node/3019539240,node/3019539240,3019539240,12.9658588,77.5924927
+Local Mutton Shop,butcher,Bengaluru,"Chidananda Maharashi Ashram Road, 560027",,OpenStreetMap,https://www.openstreetmap.org/node/3019539371,node/3019539371,3019539371,12.9662566,77.5925313
+Sweet Chariot,pastry,Bengaluru,"7th Cross 10th main, 560075",,OpenStreetMap,https://www.openstreetmap.org/node/3047997926,node/3047997926,3047997926,12.9683557,77.6512329
+Sangeetha Mobiles,mobile_phone,Bengaluru,"27th Main, 560102",,OpenStreetMap,https://www.openstreetmap.org/node/3048430640,node/3048430640,3048430640,12.9182919,77.6518533
+Titan Watches,watches,Bengaluru,"279, 27th Main, 560102",,OpenStreetMap,https://www.openstreetmap.org/node/3048435219,node/3048435219,3048435219,12.922847,77.6513827
+Liberty Exclusive Showroom,shoes,Bengaluru,"419, 27th Main Road, 560034",,OpenStreetMap,https://www.openstreetmap.org/node/3048441315,node/3048441315,3048441315,12.9184097,77.6518532
+United Colors of Benetton,clothes,Bengaluru,"27th Main, 560102",,OpenStreetMap,https://www.openstreetmap.org/node/3048451057,node/3048451057,3048451057,12.9182008,77.6518755
+Lakme Salon,hairdresser,Bengaluru,"65/1C, Sarjapur Road, 560035",,OpenStreetMap,https://www.openstreetmap.org/node/3080231329,node/3080231329,3080231329,12.9129239,77.6804146
+Bodycraft,beauty,Bengaluru,"Whitefield Main Road, 560066",,OpenStreetMap,https://www.openstreetmap.org/node/3118034347,node/3118034347,3118034347,12.9586331,77.7464693
+Mangala Bakery,bakery,Bengaluru,"off Whitefield Main Road, 560066",,OpenStreetMap,https://www.openstreetmap.org/node/3118034348,node/3118034348,3118034348,12.9583012,77.7466303
+Hero Honda,motorcycle,Bengaluru,"30th Main road, Banashankari 2nd Stage, 560085",,OpenStreetMap,https://www.openstreetmap.org/node/3118731586,node/3118731586,3118731586,12.9288924,77.5623711
+Sancys,laundry,Bengaluru,"12th Cross Road, 560102",,OpenStreetMap,https://www.openstreetmap.org/node/3198536852,node/3198536852,3198536852,12.9164007,77.6515357
+Shubh Sweets,confectionery,Bengaluru,"27th Main, 560102",,OpenStreetMap,https://www.openstreetmap.org/node/3198572489,node/3198572489,3198572489,12.9138605,77.6516831
+Adyar Ananda Bhavan,confectionery,Bengaluru,"14th Main Road, 560102",+91 98869 52681,OpenStreetMap,https://www.openstreetmap.org/node/3198599095,node/3198599095,3198599095,12.9137923,77.6374114
+Fresh Reach,supermarket,Bengaluru,"19th Cross, Kaggadasapura, 560093",,OpenStreetMap,https://www.openstreetmap.org/node/3202584686,node/3202584686,3202584686,12.9780265,77.6754957
+Soulspace,bed,Bengaluru,"72, Mahatma Gandhi Road, Haridevpur, Shanthala Nagar, Ashok Nagar",+91 88844 88840,OpenStreetMap,https://www.openstreetmap.org/node/3257966394,node/3257966394,3257966394,12.975306,77.6065165
+HP GAS,Distributor,Bengaluru,"1st Cross, 1st Main, 1st Phase, 5th Stage, BEML Layout, 560098",,OpenStreetMap,https://www.openstreetmap.org/node/3259732942,node/3259732942,3259732942,12.9204553,77.515172
+Nikhil Electricals,electrical,Bengaluru,"1669, I Main, I Phase, V Stage, BEML Layout, RajaRajeshwari Nagar, 560098",,OpenStreetMap,https://www.openstreetmap.org/node/3259733378,node/3259733378,3259733378,12.920322,77.5161055
+Top in Town Departmental Store,department_store,Bengaluru,2nd Cross,,OpenStreetMap,https://www.openstreetmap.org/node/3305353529,node/3305353529,3305353529,12.9636358,77.6438548
+Top in Town Vegetable Shop,greengrocer,Bengaluru,2nd Cross,,OpenStreetMap,https://www.openstreetmap.org/node/3305353530,node/3305353530,3305353530,12.9637926,77.6439017
+Planet Fashion,clothes,Bengaluru,Residency Road,,OpenStreetMap,https://www.openstreetmap.org/node/3323896956,node/3323896956,3323896956,12.9729398,77.6085437
+Adyar Ananda Bhavan,confectionery,Bengaluru,"Thanisandra Main Road, 560045",918025448999,OpenStreetMap,https://www.openstreetmap.org/node/3328011093,node/3328011093,3328011093,13.04098,77.6243953
+provision store,supermarket,Bengaluru,"2nd Cross KV Colony, 560011",,OpenStreetMap,https://www.openstreetmap.org/node/3329121036,node/3329121036,3329121036,12.9302178,77.5890874
+Lapteck Laptop Service Center Bangalore,computer,Bengaluru,"221/1, 1st Main Road, 560043",08088921238,OpenStreetMap,https://www.openstreetmap.org/node/3342066296,node/3342066296,3342066296,13.0209724,77.6291786
+Bangalore Horticulture,greengrocer,Bengaluru,"18th Main, 570008",,OpenStreetMap,https://www.openstreetmap.org/node/3355277904,node/3355277904,3355277904,12.9625363,77.6432991
+Chumbak,gift,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3370020255,node/3370020255,3370020255,12.9781775,77.6422383
+Woofs & Meows,pet,Bengaluru,"2, 9th Cross, 560038",919886645468,OpenStreetMap,https://www.openstreetmap.org/node/3370023223,node/3370023223,3370023223,12.9816772,77.6392319
+Thomas Cook,travel_agency,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3370054596,node/3370054596,3370054596,12.9782252,77.644835
+Cake Genie,confectionery,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3370084882,node/3370084882,3370084882,12.9783782,77.6455915
+Manyavar,clothes,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3370092498,node/3370092498,3370092498,12.9781069,77.6359334
+River,motorcycle,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3370095850,node/3370095850,3370095850,12.9773153,77.6411712
+N.R. Bombay Ladies Taylor,tailor,Bengaluru,"264, 6th Cross",,OpenStreetMap,https://www.openstreetmap.org/node/3370115620,node/3370115620,3370115620,12.9816712,77.6402228
+Citizen,watches,Bengaluru,6th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/3370164256,node/3370164256,3370164256,12.9736663,77.642755
+Shree Mithai,confectionery,Bengaluru,6th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/3370164263,node/3370164263,3370164263,12.9738071,77.6432342
+Cross Currents,clothes,Bengaluru,6th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/3370189993,node/3370189993,3370189993,12.9739797,77.6414178
+Bata,shoes,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3389691979,node/3389691979,3389691979,12.9783044,77.6340737
+Kanti Sweets,confectionery,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3390685871,node/3390685871,3390685871,12.9781252,77.6362378
+Marble Centre International Private Limited,yes,Bengaluru,"10, RD Layout, 7th Cross, 560030",,OpenStreetMap,https://www.openstreetmap.org/node/3394758626,node/3394758626,3394758626,12.9414015,77.6028616
+Sri Krishna Cake Palace,bakery,Bengaluru,"1st floor, Sarakki Main Road (9th Cross)",,OpenStreetMap,https://www.openstreetmap.org/node/3394944799,node/3394944799,3394944799,12.9105047,77.581862
+Kohinoor Granite and Marble,flooring,Bengaluru,"9th Cross, 560030",,OpenStreetMap,https://www.openstreetmap.org/node/3399027872,node/3399027872,3399027872,12.9407571,77.6025842
+Shoppers Stop,department_store,Bengaluru,Bannerghatta Road,,OpenStreetMap,https://www.openstreetmap.org/node/3401687013,node/3401687013,3401687013,12.9123494,77.6004812
+Nandini Milk Shoppe,dairy,Bengaluru,9th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/3401948659,node/3401948659,3401948659,12.9402766,77.58412
+Sagar Vajra,jewelry,Bengaluru,4th Cross Road,,OpenStreetMap,https://www.openstreetmap.org/node/3401950347,node/3401950347,3401950347,12.9416428,77.5842724
+HOPCOMS,greengrocer,Bengaluru,9th Main Road,,OpenStreetMap,https://www.openstreetmap.org/node/3401952831,node/3401952831,3401952831,12.9404021,77.584112
+Daily Fresh Bakery,bakery,Bengaluru,"Thanisandra, Rachenahalli Main Road, 560077",,OpenStreetMap,https://www.openstreetmap.org/node/3426287293,node/3426287293,3426287293,13.0572273,77.6276673
+SPG Infotech,computer,Bengaluru,"Rashtriya Vidyalaya Road, 560004",,OpenStreetMap,https://www.openstreetmap.org/node/3453283476,node/3453283476,3453283476,12.9424031,77.5802815
+Harley Davidson,motorcycle,Bengaluru,Lavelle Road,,OpenStreetMap,https://www.openstreetmap.org/node/3458333998,node/3458333998,3458333998,12.9704791,77.5977284
+Lotus Motors,motorcycle,Bengaluru,Ganga Nagar Flyover,,OpenStreetMap,https://www.openstreetmap.org/node/3461018651,node/3461018651,3461018651,13.0275949,77.5860423
+SLV Stores,supermarket,Bengaluru,"Ganga Block, National Games Village, 560047",,OpenStreetMap,https://www.openstreetmap.org/node/3473325936,node/3473325936,3473325936,12.9482932,77.6213652
+Fabindia,clothes,Bengaluru,"Mahayogi Vemana Road, 560068",,OpenStreetMap,https://www.openstreetmap.org/node/3490658866,node/3490658866,3490658866,12.9247103,77.6190199
+Inmark,clothes,Bengaluru,80 feet road,,OpenStreetMap,https://www.openstreetmap.org/node/3510319613,node/3510319613,3510319613,12.934947,77.6139133
+Trend Automobiles,car_repair,Bengaluru,"38/7, Near Krishnappa Reddy Building, Bandepalya, Garebhavipalya, 560068",,OpenStreetMap,https://www.openstreetmap.org/node/3543845981,node/3543845981,3543845981,12.8965552,77.6359479
+Bhuvavaneswari Traders,kiosk,Bengaluru,"5, 17th F Cross",,OpenStreetMap,https://www.openstreetmap.org/node/3556052606,node/3556052606,3556052606,12.9784407,77.633075
+Idea,mobile_phone,Bengaluru,"4, 17th F Cross",,OpenStreetMap,https://www.openstreetmap.org/node/3556052608,node/3556052608,3556052608,12.9783956,77.6330601
+Vodafume,gift,Bengaluru,"7, 17th F Cross",,OpenStreetMap,https://www.openstreetmap.org/node/3556052609,node/3556052609,3556052609,12.9785259,77.63308
+Unibic Cookies,confectionery,Bengaluru,"3, 17th F Cross",,OpenStreetMap,https://www.openstreetmap.org/node/3556052614,node/3556052614,3556052614,12.978308,77.6330436
+Fuzzy Wuzzy Pet Store,pet,Bengaluru,"670, Chinmaya Mission Hospital Road, 560038",+919986801449,OpenStreetMap,https://www.openstreetmap.org/node/3556072045,node/3556072045,3556072045,12.978044,77.6333101
+Fresh and Ground,coffee,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3556098554,node/3556098554,3556098554,12.9780345,77.6339912
+Padmavathi Bakers,bakery,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3556098555,node/3556098555,3556098555,12.9780446,77.6339349
+BTC Bozzar,furniture,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3556103331,node/3556103331,3556103331,12.9782881,77.6335861
+Shoes City,shoes,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3556103332,node/3556103332,3556103332,12.9782871,77.6335425
+Meena Jewellers,jewelry,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3556130037,node/3556130037,3556130037,12.9780926,77.634514
+Mishra Peda,confectionery,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3556130038,node/3556130038,3556130038,12.9780934,77.6343751
+Nokia,mobile_phone,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3556130039,node/3556130039,3556130039,12.978056,77.6340881
+Prestige Smart Kitchen,kitchen,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3556130040,node/3556130040,3556130040,12.9780941,77.6345877
+Reliance,mobile_phone,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3556130041,node/3556130041,3556130041,12.9780538,77.6340458
+Classic Polo,clothes,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3556175593,node/3556175593,3556175593,12.9780969,77.634707
+Lakshmi Traders,trade,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3556185055,node/3556185055,3556185055,12.9781092,77.6349664
+Bombay Dyeing,clothes,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3556307815,node/3556307815,3556307815,12.9781127,77.6353438
+Fashion Line,clothes,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3556307817,node/3556307817,3556307817,12.9781358,77.6363184
+Moto Adda,car,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3556307818,node/3556307818,3556307818,12.9781144,77.6354969
+Philips Store,electronics,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3556307819,node/3556307819,3556307819,12.9781006,77.6352048
+Venkateshwara Tyre Center,tyres,Bengaluru,Chinmaya Mission Hospital Road,,OpenStreetMap,https://www.openstreetmap.org/node/3556307821,node/3556307821,3556307821,12.9781052,77.635083
+Asus / Dell Service Center,electronics,Bengaluru,"53-58, 3rd Floor, Chakravarthi Complex, Sajjan Rao Circle, 560004",00918041205444,OpenStreetMap,https://www.openstreetmap.org/node/3602709124,node/3602709124,3602709124,12.9524597,77.5773297
+Maiyas Store,department_store,Bengaluru,"Sajjan Rao Circle, 560004",,OpenStreetMap,https://www.openstreetmap.org/node/3602709659,node/3602709659,3602709659,12.9526217,77.5773377
+Harsha Enterprises,energy,Bengaluru,"Sajjan Rao Circle, 560004",,OpenStreetMap,https://www.openstreetmap.org/node/3602725890,node/3602725890,3602725890,12.9517068,77.5769729
+V B Bakery,bakery,Bengaluru,"Old Market Street, 560004",,OpenStreetMap,https://www.openstreetmap.org/node/3603077928,node/3603077928,3603077928,12.9516486,77.5770722
+Sunshine Supermarket,supermarket,Bengaluru,Bettadasanapura Road,,OpenStreetMap,https://www.openstreetmap.org/node/3633415799,node/3633415799,3633415799,12.8509264,77.653502
+Nandini Milk Parlour,dairy,Bengaluru,"South End Road, 560004",,OpenStreetMap,https://www.openstreetmap.org/node/3656275411,node/3656275411,3656275411,12.9369639,77.5721872
+HOPCOMS,greengrocer,Bengaluru,1st Cross,,OpenStreetMap,https://www.openstreetmap.org/node/3660570661,node/3660570661,3660570661,12.9638052,77.6423007
+Adyar Ananda Bhavan,confectionery,Bengaluru,"Chinmaya Mission Hospital Road, 560038",+91 44 4233 3333,OpenStreetMap,https://www.openstreetmap.org/node/3668488045,node/3668488045,3668488045,12.9781539,77.6394005
+Mahalaxmi Mart,houseware,Bengaluru,"782, 16th Main Road",,OpenStreetMap,https://www.openstreetmap.org/node/3702279319,node/3702279319,3702279319,12.9149734,77.6099595
+Appoji Dry Cleaners,dry_cleaning,Bengaluru,"16th Cross Road, Chinnayanpalya, Wilson Garden, 560030",,OpenStreetMap,https://www.openstreetmap.org/node/3710157236,node/3710157236,3710157236,12.9477109,77.5997799
+Reliance Smart Point,supermarket,Bengaluru,"24th Main, 560078",,OpenStreetMap,https://www.openstreetmap.org/node/3721889726,node/3721889726,3721889726,12.893592,77.586205
+Kaveri Departmental Store,supermarket,Bengaluru,"GM Palya Main Road, 560075",,OpenStreetMap,https://www.openstreetmap.org/node/3722417685,node/3722417685,3722417685,12.9756859,77.6671061
+Clarks,shoes,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3725675417,node/3725675417,3725675417,12.9670134,77.6416348
+Airtel,mobile_phone,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3725684687,node/3725684687,3725684687,12.974868,77.6412447
+Princeton Review,yes,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3725684690,node/3725684690,3725684690,12.9750421,77.6413283
+Interio,interior_decoration,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3725707163,node/3725707163,3725707163,12.9741028,77.6413363
+Carlton,clothes,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3725709423,node/3725709423,3725709423,12.9742731,77.6413249
+Fanzart,electronics,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3725709424,node/3725709424,3725709424,12.9741882,77.6413152
+Jack & Jones,clothes,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3725710383,node/3725710383,3725710383,12.9729236,77.6413215
+Blissclub,clothes,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3725710393,node/3725710393,3725710393,12.9643581,77.6417794
+Zudio,clothes,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3725710402,node/3725710402,3725710402,12.9644935,77.6418016
+Srishti,jewelry,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3725711440,node/3725711440,3725711440,12.9718983,77.6413609
+Bluestone,jewelry,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/3725718663,node/3725718663,3725718663,12.9709362,77.6414142
+Cirrus,yes,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/3725719337,node/3725719337,3725719337,12.9708954,77.6409413
+Janki Corp Limited,yes,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/3725719343,node/3725719343,3725719343,12.9709468,77.6409377
+Suvasa,furniture,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/3725719349,node/3725719349,3725719349,12.9709509,77.6410572
+U.S. Polo Assn.,clothes,Bengaluru,"773, 100 Feet Road, 560038",,OpenStreetMap,https://www.openstreetmap.org/node/3725719352,node/3725719352,3725719352,12.9693807,77.6411193
+W,clothes,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/3725719354,node/3725719354,3725719354,12.9708605,77.6410649
+Neeru's,clothes,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3725719378,node/3725719378,3725719378,12.9659243,77.6416907
+Reebok,clothes,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3725719382,node/3725719382,3725719382,12.9662002,77.6416839
+Vision Express,optician,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3725719383,node/3725719383,3725719383,12.9654204,77.641732
+Cosmetic Studio,beauty,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/3725721584,node/3725721584,3725721584,12.9723325,77.6414221
+Aurelia,clothes,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/3725742979,node/3725742979,3725742979,12.9697562,77.6415706
+Poorika Mobile World,mobile_phone,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/3725742983,node/3725742983,3725742983,12.9696312,77.641609
+Ruosh,yes,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/3725742984,node/3725742984,3725742984,12.9696602,77.6415629
+Safari,yes,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/3725742985,node/3725742985,3725742985,12.9696945,77.6415941
+Allen Solly,clothes,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/3725872056,node/3725872056,3725872056,12.972076,77.6409726
+New glamour spa,beauty,Bengaluru,100 Feet Road( S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3725872058,node/3725872058,3725872058,12.9719867,77.640917
+Pantaloons,clothes,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/3725872059,node/3725872059,3725872059,12.9717347,77.6410001
+Soma shop,clothes,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/3725872060,node/3725872060,3725872060,12.9720123,77.6409807
+Van Heusen,clothes,Bengaluru,100 Feet Road( S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3725872061,node/3725872061,3725872061,12.9719085,77.6409824
+The Thai spa,beauty,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/3725882449,node/3725882449,3725882449,12.9711882,77.6409763
+Samsung,electronics,Bengaluru,100 Feet Road(S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3726036587,node/3726036587,3726036587,12.970529,77.6414742
+Wooden Street,furniture,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/3726063801,node/3726063801,3726063801,12.9689167,77.6416692
+IZOD,clothes,Bengaluru,100 Feet Road,,OpenStreetMap,https://www.openstreetmap.org/node/3726063802,node/3726063802,3726063802,12.9689861,77.6417056
+Creative Jewels,jewelry,Bengaluru,100 Feet Road( S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3727147616,node/3727147616,3727147616,12.9626968,77.6414051
+Puma,clothes,Bengaluru,"100 Feet Road, Indira Nagar, 560038",080 4210 0812,OpenStreetMap,https://www.openstreetmap.org/node/3727148128,node/3727148128,3727148128,12.9673045,77.6411621
+Stanley,interior_decoration,Bengaluru,100 Feet Road( S K Karim Khan Road),,OpenStreetMap,https://www.openstreetmap.org/node/3727148132,node/3727148132,3727148132,12.9632071,77.6413756
+Reliance Fresh,supermarket,Bengaluru,South End Road,,OpenStreetMap,https://www.openstreetmap.org/node/3751673527,node/3751673527,3751673527,12.9366381,77.5752413
+Faber-Franke,hardware,Bengaluru,Old Airport Road,,OpenStreetMap,https://www.openstreetmap.org/node/3761382502,node/3761382502,3761382502,12.9600708,77.6450117
+Reliance Mobile Store,mobile_phone,Bengaluru,Old Airport Road,,OpenStreetMap,https://www.openstreetmap.org/node/3761386469,node/3761386469,3761386469,12.9600702,77.6448451
+Jayalakshmi Bakery,bakery,Bengaluru,Lalbagh Road,,OpenStreetMap,https://www.openstreetmap.org/node/3773028984,node/3773028984,3773028984,12.9609168,77.5879444
+Adyar Ananda Bhavan,confectionery,Bengaluru,"6th Cross Road, 560003",918041280909,OpenStreetMap,https://www.openstreetmap.org/node/3781792270,node/3781792270,3781792270,12.997771,77.571072

@@ -8,7 +8,7 @@ The prepared dataset and SQL seed contain **534 Bengaluru listings** with a busi
 
 The dashboard reads the live MySQL database. A persistent local volume can include records from an earlier run in addition to the 534-row seed, because imports upsert by source ID and do not delete unrelated existing rows. Check `/api/dashboard/summary` for the live count; a fresh MySQL volume starts from the 534-row SQL seed.
 
-The source is OpenStreetMap (OSM), collected through the Overpass API within the Bengaluru administrative boundary. `data/bengaluru_osm_shop_candidates.json` contains the larger candidate export; `data/bengaluru_complete.csv` and `.json` are the prepared records, and `database/listings_dump.sql` seeds those 534 rows. The preparation script excludes rows missing required listing details; it does not invent phone numbers or addresses.
+The source is OpenStreetMap (OSM), collected through the Overpass API using a bounding box covering Bengaluru. `data/bengaluru_osm_shop_candidates.json` contains the larger candidate export; `data/bengaluru_complete.csv` and `.json` are the prepared records, and `database/listings_dump.sql` seeds those 534 rows. The preparation script excludes rows missing required listing details; it does not invent phone numbers or addresses.
 
 OSM data is available under the Open Database License (ODbL). Listing links and IDs are kept in the data, and the dashboard displays attribution. Keep the attribution and review ODbL obligations before redistributing a modified database. This project does not bulk-scrape Google Maps, Opendi, or GullyDirectory. See the [OSM copyright and license page](https://www.openstreetmap.org/copyright), [Google Maps Platform policies](https://developers.google.com/maps/documentation/places/web-service/policies), [Opendi legal notice](https://www.opendi.com/en/contact.html), and [GullyDirectory terms](https://www.gullydirectory.com/terms).
 
@@ -66,7 +66,7 @@ The database uniqueness key is `(source, source_id)`, preserving distinct branch
 
 ## Data preparation
 
-`scripts/collect_osm_candidates.py` queries named OSM shop features inside the Bengaluru boundary and writes a candidate export. It preserves OSM feature URLs and IDs. `scripts/prepare_verified_data.py` filters the candidate CSV and regenerates the complete CSV/JSON and SQL seed files:
+`scripts/collect_osm_candidates.py` queries named OSM shop features inside the Bengaluru bounding box and writes candidate JSON and CSV exports. It preserves OSM feature URLs and IDs. `scripts/prepare_verified_data.py` reads the candidate JSON when present (otherwise the source CSV) and regenerates the complete CSV/JSON and SQL seed files:
 
 ```bash
 python3 scripts/prepare_verified_data.py
