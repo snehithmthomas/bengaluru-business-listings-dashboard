@@ -1,87 +1,139 @@
+<div align="center">
+
 # Bengaluru Business Listings Dashboard
 
-A full-stack business listings dashboard built with React, FastAPI, and MySQL. It uses source-linked OpenStreetMap data for Bengaluru and keeps source IDs so separate branches are not merged by name.
+**Explore local businesses through an interactive, source-linked dashboard.**
 
-## Dataset
+Built with React, FastAPI, and MySQL. The prepared Bengaluru dataset contains **534 listings** and meets the assignment's 500+ requirement.
 
-The prepared dataset and SQL seed contain **534 Bengaluru listings** with a business name, category, city, address, source link, source ID, and coordinates. In that seed, phone is optional in OpenStreetMap: 39 listings (7.3%) include one; the other 495 values remain SQL `NULL`. Of the seed addresses, 176 contain a six-digit postcode that the dashboard can extract. Eight records use the OSM category tag `yes`, which may indicate an unspecified category. Repeated business names are retained as separate records by source ID.
+![React 18.3.1](https://img.shields.io/badge/React-18.3.1-149ECA?logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi&logoColor=white)
+![MySQL 8.4](https://img.shields.io/badge/Database-MySQL%208.4-4479A1?logo=mysql&logoColor=white)
+![Listings](https://img.shields.io/badge/Prepared%20listings-534-625DF5)
 
-The dashboard reads the live MySQL database. A persistent local volume can include records from an earlier run in addition to the 534-row seed, because imports upsert by source ID and do not delete unrelated existing rows. Check `/api/dashboard/summary` for the live count; a fresh MySQL volume starts from the 534-row SQL seed.
+</div>
 
-The source is OpenStreetMap (OSM), collected through the Overpass API using a bounding box covering Bengaluru. `data/bengaluru_osm_shop_candidates.json` contains the larger candidate export; `data/bengaluru_complete.csv` and `.json` are the prepared records, and `database/listings_dump.sql` seeds those 534 rows. The preparation script excludes rows missing required listing details; it does not invent phone numbers or addresses.
+## At a glance
 
-OSM data is available under the Open Database License (ODbL). Listing links and IDs are kept in the data, and the dashboard displays attribution. Keep the attribution and review ODbL obligations before redistributing a modified database. This project does not bulk-scrape Google Maps, Opendi, or GullyDirectory. See the [OSM copyright and license page](https://www.openstreetmap.org/copyright), [Google Maps Platform policies](https://developers.google.com/maps/documentation/places/web-service/policies), [Opendi legal notice](https://www.opendi.com/en/contact.html), and [GullyDirectory terms](https://www.gullydirectory.com/terms).
+| | |
+| --- | --- |
+| **Dashboard** | Category mix, phone coverage, postcode patterns, listing map, and data-quality checks |
+| **Data source** | OpenStreetMap shop listings collected through the Overpass API |
+| **Prepared seed** | 534 listings with names, categories, cities, addresses, source links, IDs, and coordinates |
+| **Phone coverage** | 39 of 534 listings (7.3%); phone numbers are optional and are never invented |
+| **Run locally** | Docker Compose starts MySQL, FastAPI, and the React dashboard |
 
-The assignment asks for 500+ listings, which this prepared dataset meets. The earlier 1,000-record stretch target is not met; obtaining 1,000 complete records requires a source that permits collection and reuse.
+## Dashboard features
 
-## Features
+- **Summary cards** for listing totals, categories, phone availability, and mapped coordinates.
+- **Category chart** with counts and percentages for the top 10 categories.
+- **Interactive map** with source-linked listing details.
+- **Contact and postcode analysis** based on the fields actually present in the data.
+- **Data-quality checks** for repeated names, duplicate source IDs, unclassified `yes` tags, and addresses without a detected postcode.
+- **Listings table** with address, available phone, source, and source ID.
 
-- KPI summary for total listings, category count, phone coverage, and mapped coordinates.
-- Category chart with counts and percentages for the top 10 categories.
-- Interactive listing map with source-linked details.
-- Phone coverage by category and postcode counts extracted from addresses.
-- Data quality checks for repeated names, duplicate source IDs, `yes` categories, and addresses without a postcode.
-- Listings table with business, category, address, available phone, source link, and source ID.
-- FastAPI bulk import and grouped aggregate endpoints.
+## How it works
 
-## Stack
+```mermaid
+flowchart LR
+    A[OpenStreetMap Overpass API] --> B[Candidate export]
+    B --> C[Prepare and validate records]
+    C --> D[CSV, JSON, and SQL seed]
+    D --> E[(MySQL listing_master)]
+    E --> F[FastAPI endpoints]
+    F --> G[React dashboard]
+```
 
-- Frontend: React 18, Vite, Recharts, Leaflet, React Leaflet
-- Backend: FastAPI, Pydantic, MySQL Connector/Python
-- Database: MySQL 8.4
-- Local orchestration: Docker Compose
+The collector queries named shop features in a bounding box covering Bengaluru. The preparation step removes records without the required listing details, normalizes the city, and keeps each source ID so separate branches are not merged by name. Missing phone numbers remain SQL `NULL`.
 
-## Run locally
+## Quick start
 
-1. Copy `.env.example` to `.env` and replace both example passwords with local values.
-2. Start Docker Desktop or another Docker Engine with Compose.
-3. From the project root, start all services:
+### Prerequisites
+
+- Docker Desktop or another Docker Engine with Docker Compose
+- Python 3.10+ only if you want to run the CSV importer or collection scripts outside Docker
+
+### Start the app
+
+1. Create your local environment file and replace the example passwords:
+
+   ```bash
+   cp .env.example .env
+   ```
+
+2. Build and start the services from the project root:
 
    ```bash
    docker compose up --build -d
    ```
 
-4. Wait until `docker compose ps` reports the database and backend as healthy.
-5. Open the dashboard at <http://localhost:5173> and the API docs at <http://localhost:8000/docs>.
+3. Wait for the database and API to become healthy:
 
-On first startup, MySQL runs `database/schema.sql` and `database/listings_dump.sql`. Existing named Docker volumes are not reseeded automatically. The backend startup migration makes the `phone` column nullable on older volumes. To import or refresh the prepared CSV after the API is healthy, run from the project root:
+   ```bash
+   docker compose ps
+   ```
+
+4. Open the dashboard and API documentation:
+
+   - Dashboard: <http://localhost:5173>
+   - FastAPI docs: <http://localhost:8000/docs>
+   - Health check: <http://localhost:8000/api/health>
+
+On a fresh MySQL volume, Compose initializes the schema and 534-row SQL seed. Existing volumes are not reseeded automatically. To import the prepared CSV into an already-running API:
 
 ```bash
 python3 backend/app/import_csv.py data/bengaluru_complete.csv --api http://localhost:8000
 ```
 
-The importer reports `received: 534` when it reads this dataset. Check the current database count at <http://localhost:8000/api/dashboard/summary>. Do not use `docker compose down -v` unless you intend to delete the local database volume and all data stored in it.
+The importer upserts by `(source, source_id)` and reports `received: 534`. Check the live database total at <http://localhost:8000/api/dashboard/summary>. Avoid `docker compose down -v` unless you intend to delete the local database volume.
 
-## API
+## API reference
 
-- `GET /api/health` - API and database readiness
-- `GET /api/dashboard/summary` - totals, distinct categories and sources, and listings with phone/address
-- `GET /api/dashboard/cities` - listing counts by city
-- `GET /api/dashboard/categories` - listing counts by category
-- `GET /api/dashboard/sources` - listing counts by source
-- `GET /api/listings?limit=1000` - up to 1,000 source-linked listing records
-- `POST /api/listings/bulk` - validate and idempotently insert/update a batch
+| Method | Endpoint | Purpose |
+| --- | --- | --- |
+| `GET` | `/api/health` | API and database readiness |
+| `GET` | `/api/dashboard/summary` | Total listings, category/source totals, and phone/address coverage |
+| `GET` | `/api/dashboard/cities` | Listing count by city |
+| `GET` | `/api/dashboard/categories` | Listing count by category |
+| `GET` | `/api/dashboard/sources` | Listing count by source |
+| `GET` | `/api/listings?limit=1000` | Source-linked listing records; limit is capped at 1,000 |
+| `POST` | `/api/listings/bulk` | Validate and bulk upsert a listing batch |
 
-The database uniqueness key is `(source, source_id)`, preserving distinct branches with repeated names. Required fields are validated; an absent phone is valid and stored as SQL `NULL`.
+Interactive API documentation is available at <http://localhost:8000/docs> after startup.
 
-## Data preparation
+## Data and provenance
 
-`scripts/collect_osm_candidates.py` queries named OSM shop features inside the Bengaluru bounding box and writes candidate JSON and CSV exports. It preserves OSM feature URLs and IDs. `scripts/prepare_verified_data.py` reads the candidate JSON when present (otherwise the source CSV) and regenerates the complete CSV/JSON and SQL seed files:
+The committed prepared dataset is `data/bengaluru_complete.csv` and `.json`. The SQL seed in `database/listings_dump.sql` contains **534 rows**. The larger `data/bengaluru_osm_shop_candidates.json` export contains **1,865 candidates**, including records that the preparation step excludes when required details are missing.
+
+To collect a new candidate export and regenerate the prepared CSV, JSON, and SQL files:
 
 ```bash
+python3 scripts/collect_osm_candidates.py
 python3 scripts/prepare_verified_data.py
 ```
 
-Before using any alternative directory/API, confirm that its terms or license permit collection and reuse. Document the provider, collection date, license/permission, and remaining data coverage limits.
+OpenStreetMap data is © OpenStreetMap contributors and is available under the [Open Database License (ODbL)](https://www.openstreetmap.org/copyright). The dashboard provides attribution, and the dataset retains source links and IDs. Review ODbL attribution and share-alike obligations before redistributing an adapted database. This project uses OSM and does not scrape Google Maps, Justdial, or Sulekha.
 
-## Demo video checklist
+## Data limitations
 
-Record a 3–5 minute walkthrough using [the timed demo script](docs/demo-script.md). Show the live dashboard, one API response in `/docs`, and a sample MySQL record with its source ID. Explain that phone coverage is sparse and be clear that the current dataset has 534 listings, not 1,000.
+- The prepared seed contains 534 listings, not the earlier 1,000-record stretch target.
+- Only 39 listings have a phone number (7.3%); avoid broad conclusions from that small sample.
+- Every prepared row is from Bengaluru and OpenStreetMap, so city and source comparisons each have only one group.
+- 176 addresses contain a detected six-digit postcode; the other 358 do not.
+- Eight records use the OSM category tag `yes`, which may mean the category is unspecified.
+- OSM listings can be outdated. Source provenance does not guarantee that a business or contact detail is current.
 
-## Remaining limitations
+## Project structure
 
-- Phone coverage is 39/534 (7.3%); do not draw broad conclusions from the small phone-bearing sample.
-- Every row is in Bengaluru and comes from OSM, so city/source comparisons have only one group.
-- Postcodes are extracted only when present in the address; 358 addresses have no detected six-digit postcode.
-- Eight `yes` categories may represent unclassified OSM tags. OSM provenance does not guarantee a phone number or address is current.
-- The 1,000-record stretch target is not met.
+```text
+backend/       FastAPI app, MySQL connection, schemas, and CSV importer
+database/      MySQL schema and 534-row seed dump
+data/          Prepared listings and OSM candidate export
+docs/          Timed demo walkthrough
+frontend/      React dashboard and map
+scripts/       OSM collector and data-preparation pipeline
+```
+
+## Demo walkthrough
+
+The 3–5 minute recording guide is in [`docs/demo-script.md`](docs/demo-script.md). It covers the collection approach, API, MySQL seed, dashboard, and known data limits.
